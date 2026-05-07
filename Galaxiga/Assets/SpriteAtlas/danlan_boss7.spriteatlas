@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "danlan_boss7"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 50136d6f66a249bebdf7fcf113f1a82c, type: 3}
+    - {fileID: 21300000, guid: d4714620d0f04287ad2f0a48709f6f4a, type: 3}
+    - {fileID: 21300000, guid: e139beb2b3494d22867b397461c5d21a, type: 3}
+    - {fileID: 21300000, guid: b8b2480863794d49ae7916a83b4dbc5a, type: 3}
+    - {fileID: 21300000, guid: 36b7342411e547f0bc024402e4720d2b, type: 3}
+    - {fileID: 21300000, guid: 1eac73d7ac984a40a761b4ff46ab32fc, type: 3}
+    - {fileID: 21300000, guid: bfeb24488bb042e9b76d92dff44b7fa1, type: 3}
+    - {fileID: 21300000, guid: ffdf3c5103ed45c9b0210a52ae4b3d0b, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "danlan_boss7"
+  m_IsVariant: 0

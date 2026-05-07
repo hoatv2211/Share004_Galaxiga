@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c4bacc54ae4c431195ca2f3b731024bb
+timeCreated: 1626260147
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "UTM Hanzel"
+  fontNames:
+  - UTM Hanzel
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

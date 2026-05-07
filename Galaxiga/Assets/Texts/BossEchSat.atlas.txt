@@ -1,0 +1,328 @@
+
+BossEchSat.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BossEchSatFull/Boss7_Body_Atk1_hold_0
+  rotate: false
+  xy: 52, 752
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Atk1_hold_1
+  rotate: false
+  xy: 52, 481
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Atk1_up_0
+  rotate: false
+  xy: 364, 752
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Atk1_up_1
+  rotate: false
+  xy: 364, 481
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Atk1_up_2
+  rotate: false
+  xy: 676, 752
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Atk_down_0
+  rotate: false
+  xy: 676, 481
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Atk_down_1
+  rotate: false
+  xy: 988, 752
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Atk_down_2
+  rotate: false
+  xy: 988, 481
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Idle_0
+  rotate: false
+  xy: 1300, 752
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Idle_1
+  rotate: false
+  xy: 1300, 481
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Idle_2
+  rotate: false
+  xy: 1612, 752
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Idle_3
+  rotate: false
+  xy: 1612, 481
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Idle_4
+  rotate: true
+  xy: 2, 167
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Idle_5
+  rotate: false
+  xy: 273, 210
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Idle_6
+  rotate: false
+  xy: 585, 210
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Boss7_Body_Idle_7
+  rotate: false
+  xy: 897, 210
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_Idle1
+  rotate: false
+  xy: 1209, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_Idle2
+  rotate: false
+  xy: 1924, 678
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_Idle3
+  rotate: false
+  xy: 1278, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_Idle4
+  rotate: false
+  xy: 1924, 513
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_Idle5
+  rotate: false
+  xy: 1347, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_Idle6
+  rotate: true
+  xy: 1209, 247
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_Idle7
+  rotate: false
+  xy: 1416, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_Idle8
+  rotate: false
+  xy: 1485, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_atk_down1
+  rotate: true
+  xy: 1374, 247
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_atk_down2
+  rotate: false
+  xy: 1554, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_atk_down3
+  rotate: false
+  xy: 1623, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_atk_hold1
+  rotate: false
+  xy: 1692, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_atk_hold2
+  rotate: true
+  xy: 1539, 247
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_atk_up1
+  rotate: false
+  xy: 1761, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_atk_up2
+  rotate: false
+  xy: 1830, 316
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+BossEchSatFull/Gun1_atk_up3
+  rotate: true
+  xy: 1704, 247
+  size: 67, 163
+  orig: 67, 163
+  offset: 0, 0
+  index: -1
+canh
+  rotate: false
+  xy: 611, 160
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+canh2
+  rotate: true
+  xy: 2, 2
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+canh3
+  rotate: true
+  xy: 1924, 482
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+chan
+  rotate: false
+  xy: 1209, 214
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: true
+  xy: 680, 160
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+chan3
+  rotate: false
+  xy: 530, 165
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 1924, 843
+  size: 178, 79
+  orig: 178, 79
+  offset: 0, 0
+  index: -1
+dau2
+  rotate: true
+  xy: 196, 50
+  size: 115, 60
+  orig: 115, 60
+  offset: 0, 0
+  index: -1
+dau2a
+  rotate: false
+  xy: 273, 136
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 2, 38
+  size: 192, 127
+  orig: 192, 127
+  offset: 0, 0
+  index: -1
+luoi
+  rotate: false
+  xy: 2005, 954
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+luoi4
+  rotate: false
+  xy: 2, 479
+  size: 48, 542
+  orig: 48, 542
+  offset: 0, 0
+  index: -1
+sung
+  rotate: false
+  xy: 458, 146
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+vuongmien
+  rotate: false
+  xy: 372, 126
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1

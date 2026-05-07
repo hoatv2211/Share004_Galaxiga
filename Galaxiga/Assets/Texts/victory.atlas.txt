@@ -1,0 +1,34 @@
+
+victory.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Victory/background
+  rotate: false
+  xy: 2, 267
+  size: 534, 236
+  orig: 534, 236
+  offset: 0, 0
+  index: -1
+Victory/chim
+  rotate: false
+  xy: 2, 2
+  size: 255, 263
+  orig: 255, 263
+  offset: 0, 0
+  index: -1
+Victory/gold
+  rotate: false
+  xy: 259, 241
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Victory/victory_text
+  rotate: false
+  xy: 538, 437
+  size: 271, 66
+  orig: 271, 66
+  offset: 0, 0
+  index: -1

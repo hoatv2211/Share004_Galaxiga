@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "BoDialazeCam"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: f821ca2951e743268a9c76bf854f5c78, type: 3}
+    - {fileID: 21300000, guid: 76eabee679ca45c48ebf60697e2132ac, type: 3}
+    - {fileID: 21300000, guid: 40af7a18a1a640d591f27692dbd1721e, type: 3}
+    - {fileID: 21300000, guid: 9b332e3980744ef98281f2ed936202f4, type: 3}
+    - {fileID: 21300000, guid: bc301f7e9ce843bfa17cbf9a42ca1159, type: 3}
+    - {fileID: 21300000, guid: 656d69603d464d559f9d003907a998b1, type: 3}
+    - {fileID: 21300000, guid: e1e099fdabb5430eb09bfdda07a7c1de, type: 3}
+    - {fileID: 21300000, guid: 713201d5db65433e8444c51664d0e6fc, type: 3}
+    - {fileID: 21300000, guid: 996a51364a344b78b4870ca84cd443c9, type: 3}
+    - {fileID: 21300000, guid: e4798c54e0304f62a2c5f26d60155a5f, type: 3}
+    - {fileID: 21300000, guid: caadbe37b0f1477d96455886820659d6, type: 3}
+    - {fileID: 21300000, guid: c6ec4499aff147c69969448bc90ec7a3, type: 3}
+    - {fileID: 21300000, guid: 4a26d671290e4af6b8a009add6ce73ed, type: 3}
+    - {fileID: 21300000, guid: b21cd71b66f4486287848f86d3962add, type: 3}
+    - {fileID: 21300000, guid: e80604a8f12542ca9d711c10430f4dd5, type: 3}
+    - {fileID: 21300000, guid: 4edbb5f382104d64995cd6ea46d0a9fb, type: 3}
+    - {fileID: 21300000, guid: 63a60d4c8b1b4f40b2eeb160c7550b41, type: 3}
+    - {fileID: 21300000, guid: f185c6bae8294cd397208554f43388ab, type: 3}
+    - {fileID: 21300000, guid: 178b736743bc4c639c37c03f8d998706, type: 3}
+    - {fileID: 21300000, guid: 88ecb0e4d3a6458286eab913460a53c3, type: 3}
+    - {fileID: 21300000, guid: 4f1a59a05da84199979ca46ab73d8eb1, type: 3}
+    - {fileID: 21300000, guid: e13015f8b20449db8f459b4f8df28648, type: 3}
+    - {fileID: 21300000, guid: 1c5a3ec3abc54a5eb9f8cd8631edca12, type: 3}
+    - {fileID: 21300000, guid: 9fe1adcdcffb48369d63d8b1a6a95bff, type: 3}
+    - {fileID: 21300000, guid: 8e5510f00e6447baac2bebed07feff2f, type: 3}
+    - {fileID: 21300000, guid: 073807824f924160a146cd5634ef6558, type: 3}
+    - {fileID: 21300000, guid: 2d7d0d0dfb914026994484f71028b882, type: 3}
+    - {fileID: 21300000, guid: 72396563e3e043a2824150617de1faed, type: 3}
+    - {fileID: 21300000, guid: 476fe860183d4dbaae5e9ccbdd03cf19, type: 3}
+    - {fileID: 21300000, guid: 72fce3a411014d16ad31ceeff0d5c846, type: 3}
+    - {fileID: 21300000, guid: bf0659b820ea470193fc5d5abc7b044f, type: 3}
+    - {fileID: 21300000, guid: b8d317fad709483488a6c5498efcf785, type: 3}
+    - {fileID: 21300000, guid: ddaad2f3219a48219cee519fda9be7f6, type: 3}
+    - {fileID: 21300000, guid: af256b41852a434395e0fc732561872a, type: 3}
+    - {fileID: 21300000, guid: e501303b49d04ba1aa25dda7c2e7aac7, type: 3}
+    - {fileID: 21300000, guid: 27275db7bf1f405c8aa758d5955e9ae9, type: 3}
+    - {fileID: 21300000, guid: bc69942d86eb4598b8acdb1d13af6f45, type: 3}
+    - {fileID: 21300000, guid: 4e8fc49021494127ae824a82a18c9a4b, type: 3}
+    - {fileID: 21300000, guid: 2c54107d15ae407891bb832b4414a4b0, type: 3}
+    - {fileID: 21300000, guid: 5ee69df4b8704d33a1bf961940d1e9c0, type: 3}
+    - {fileID: 21300000, guid: f80df7e81f2d4851bc4c05f725af093b, type: 3}
+    - {fileID: 21300000, guid: a752e3599c8f4259add0d40c1c177b74, type: 3}
+    - {fileID: 21300000, guid: e8082d80aa6d4cb9a1d56a930e3691d8, type: 3}
+    - {fileID: 21300000, guid: cc45b8eac13f474bb29458adc2c96e28, type: 3}
+    - {fileID: 21300000, guid: 802359a214a84c4fbc76f6f3d1c76522, type: 3}
+    - {fileID: 21300000, guid: e3971faea1d941a8a089da9ab9b3c4f7, type: 3}
+    - {fileID: 21300000, guid: 554a37fdd4484a57b0135bc45b544b0a, type: 3}
+    - {fileID: 21300000, guid: 3f28e37ea24a49d29d91543b7e94c4ab, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "BoDialazeCam"
+  m_IsVariant: 0

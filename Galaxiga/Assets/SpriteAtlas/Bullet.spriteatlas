@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Bullet"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 88b096c8f0a0469a83f8f85172547c7f, type: 3}
+    - {fileID: 21300000, guid: e655331980c24ab08584a5cee2ff4cc9, type: 3}
+    - {fileID: 21300000, guid: 113de84cab9746418d74f13873813a68, type: 3}
+    - {fileID: 21300000, guid: b718f00d18164a55af7065b26096200c, type: 3}
+    - {fileID: 21300000, guid: 15b73c9c0d7b4843b24e45054148336f, type: 3}
+    - {fileID: 21300000, guid: 36f10809b1bb44318584f7633a64e3e3, type: 3}
+    - {fileID: 21300000, guid: 24817fda1ff8454cbfa02b6ceb9dbb07, type: 3}
+    - {fileID: 21300000, guid: a99134a2849e441cb02710d432272dfd, type: 3}
+    - {fileID: 21300000, guid: 648e7631fcb44063b0d69f8f172102c5, type: 3}
+    - {fileID: 21300000, guid: 7295f417b58b47c2b1b92b2e3190f1ab, type: 3}
+    - {fileID: 21300000, guid: fda5170fcb5e47198e6b48f2c4b7b260, type: 3}
+    - {fileID: 21300000, guid: 88186c8f575d4945b78fa6e81b738221, type: 3}
+    - {fileID: 21300000, guid: e375b217e8024d1589b82f59ff8f34b6, type: 3}
+    - {fileID: 21300000, guid: eab09e0d447145ddbe8e051c1fed6597, type: 3}
+    - {fileID: 21300000, guid: 4a8a5a72248d443fb60a591e4cbd7040, type: 3}
+    - {fileID: 21300000, guid: 524e9d8cc5dc4c5c84d7bd4fb9a696b3, type: 3}
+    - {fileID: 21300000, guid: a34ef014cf5c4a2dab96f4b8c5b025b0, type: 3}
+    - {fileID: 21300000, guid: dac10a1598f7466b8931188860cda94c, type: 3}
+    - {fileID: 21300000, guid: fe601cc033b740e696f35753a48be716, type: 3}
+    - {fileID: 21300000, guid: 341e11f85fa7473fa49d1c17eefc55e2, type: 3}
+    - {fileID: 21300000, guid: 1ce6e095af1c47bc8135aa6cd1335533, type: 3}
+    - {fileID: 21300000, guid: b1b495ae7d494b238e0b46912114048d, type: 3}
+    - {fileID: 21300000, guid: 06b84e57dabf4415bb530b32d0110c90, type: 3}
+    - {fileID: 21300000, guid: 31f9a90811ff4962952d85150f5f44a9, type: 3}
+    - {fileID: 21300000, guid: 0103eed57b2540d6ac39b24946e75d26, type: 3}
+    - {fileID: 21300000, guid: 7fb87da3c502468488a401f617550abb, type: 3}
+    - {fileID: 21300000, guid: 19c2dc4110414624b2319681c594ce28, type: 3}
+    - {fileID: 21300000, guid: ab23e2f67a034556a96880d8029a3462, type: 3}
+    - {fileID: 21300000, guid: 72f735be0e6e46cab4ca0e00c84fe9d5, type: 3}
+    - {fileID: 21300000, guid: a6bef204459b44549968d2e5ff0980f0, type: 3}
+    - {fileID: 21300000, guid: fe2bb14352ab4a70bab8a614964f7806, type: 3}
+    - {fileID: 21300000, guid: a2d3bc2c0d2b41088af131ece71e119d, type: 3}
+    - {fileID: 21300000, guid: 7069813ffd9a40a39f96e67c2881b2e2, type: 3}
+    - {fileID: 21300000, guid: 460263c5eeff4873b5aede089b069c57, type: 3}
+    - {fileID: 21300000, guid: 48fb4e9b4aae4a2bbcfb72b464960f8b, type: 3}
+    - {fileID: 21300000, guid: 76ec4ec56abd4fffbca1b37da20ac9df, type: 3}
+    - {fileID: 21300000, guid: c21d507879a24ba28c077449d21cd3b7, type: 3}
+    - {fileID: 21300000, guid: 4b2c1acceb4449e0a2aa423c11f1f8dd, type: 3}
+    - {fileID: 21300000, guid: 751b7c8b6ab04573bbfb838e1a980b43, type: 3}
+    - {fileID: 21300000, guid: 4c71a5390e934f209507bae8e20c6ba6, type: 3}
+    - {fileID: 21300000, guid: aee3a252e15448eb8ff2419a7fb38049, type: 3}
+    - {fileID: 21300000, guid: ee61747c60344abe81d254ea544a48e9, type: 3}
+    - {fileID: 21300000, guid: b267813f797b4a5cab21caaacfd91d41, type: 3}
+    - {fileID: 21300000, guid: 517bcb3223864236991d600dd39fd7e9, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Bullet"
+  m_IsVariant: 0

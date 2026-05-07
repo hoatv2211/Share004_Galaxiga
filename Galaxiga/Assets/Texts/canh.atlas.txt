@@ -1,0 +1,69 @@
+
+canh.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_boss3/canh1
+  rotate: false
+  xy: 2, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+anim_boss3/canh2
+  rotate: false
+  xy: 108, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+anim_boss3/canh3
+  rotate: false
+  xy: 214, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+anim_boss3/canh4
+  rotate: false
+  xy: 320, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+anim_boss3/canh5
+  rotate: false
+  xy: 426, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+anim_boss3/canh6
+  rotate: false
+  xy: 532, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+anim_boss3/canh7
+  rotate: false
+  xy: 638, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+anim_boss3/canh8
+  rotate: false
+  xy: 744, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+anim_boss3/canhduoi1
+  rotate: false
+  xy: 850, 5
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1

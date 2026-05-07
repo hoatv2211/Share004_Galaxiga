@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Enemy1"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: d9c27e29f3a44e0cacd1bc8c9e81bbdb, type: 3}
+    - {fileID: 21300000, guid: 7724d6b1413247408e980ce96d2b4c06, type: 3}
+    - {fileID: 21300000, guid: 856a1adc4df64659bb70761ec9c30f28, type: 3}
+    - {fileID: 21300000, guid: 5dc72f6a0b73445ebdd4f3af65fde2a7, type: 3}
+    - {fileID: 21300000, guid: 67b5d1ac6c084a64a123318bc8a070e8, type: 3}
+    - {fileID: 21300000, guid: 29cc744cea7345f7b223bab0375462c6, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Enemy1"
+  m_IsVariant: 0

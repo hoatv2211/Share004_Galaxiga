@@ -1,0 +1,27 @@
+
+box_d1.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box/1
+  rotate: false
+  xy: 2, 2
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+box/2
+  rotate: false
+  xy: 112, 11
+  size: 100, 49
+  orig: 100, 49
+  offset: 0, 0
+  index: -1
+box/3
+  rotate: false
+  xy: 214, 10
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1

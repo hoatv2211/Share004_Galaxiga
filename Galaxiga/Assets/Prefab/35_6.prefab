@@ -1,0 +1,400 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1790540065213972881
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163636689}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1790540065213976561}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1790540065213976561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163631198}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.05, y: 11.83, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1790540065213972881}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790540065163631198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790540065213976561}
+  - component: {fileID: 1790540067059487133}
+  m_Layer: 0
+  m_Name: "Turn_Terminator"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1790540065163636689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790540065213972881}
+  - component: {fileID: 1790540067059486298}
+  - component: {fileID: 1790540067059485698}
+  m_Layer: 0
+  m_Name: "35_6"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790540067059485698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163636689}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e623596f94b35b6baf05ec9b21cf2ae6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1
+  direction: {x: 1, y: 0}
+  unitToMove: 4
+  startMove: 1
+  timeStartMove: 10
+--- !u!114 &1790540067059486298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163636689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c97d522c687667977e12ebc931b0c02e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  warningTime: 2
+  difficultyLevel: 0
+  decodeOverMultipleFrames: 1
+  startTurnOverMultipleFrames: 1
+  numberItem: 1
+  addItem: 0
+  item: {fileID: 1790540065163630025, guid: fe426dc019b546ddb842383858bb2e88, type: 2}
+  numberItemSuper: 1
+  addItemSuper: 0
+  itemSuper: {fileID: 1790540065163627805, guid: 4a41721937fa47248d49f48578140cb7, type: 2}
+  numberItemPlane: 0
+  addItemPlane: 0
+  ListItemPlane:
+  - {fileID: 1790540065163626585, guid: 0baddda7dfeb4d988ce16c61d90f62f2, type: 2}
+  - {fileID: 0}
+  - {fileID: 1790540065163626954, guid: 40c87f0439184944a0e5a0e2e1409c07, type: 2}
+  - {fileID: 0}
+  - {fileID: 1790540065163627655, guid: 8c9cb90e1a2742909f528f46aca026e8, type: 2}
+  spawnPlaneOnList: 0
+  waveBoss: 1
+  ListCoinGem:
+  - {fileID: 1790540065163630462, guid: 62425b1b45134dc1b000f3d8a01d6b51, type: 2}
+  - {fileID: 1790540065163630462, guid: 62425b1b45134dc1b000f3d8a01d6b51, type: 2}
+  - {fileID: 1790540065163630462, guid: 62425b1b45134dc1b000f3d8a01d6b51, type: 2}
+  delayWin: 5
+  spawItemNumberDrop: 0
+  numberDrop: 0
+  addNumberDrop: 0
+  percentSpawnItemEvent: 100
+  itemSpawnDrop: {fileID: 0}
+  showWarning: 0
+  warning: {fileID: 0}
+  ListPoinWarning: []
+  numberEnemyMove: 0
+  maxEnemyMove: 3
+--- !u!114 &1790540067059487133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163631198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baec62894d434c70bfce7c24b2ea6809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToBegin: 0
+  timeToEnd: 0
+  enemy: {fileID: 1790540067059482373, guid: a30a2d05e0744e689da7bd0da058b6b7, type: 2}
+  enemyFields:
+  - name: "winMap"
+    isUnityObject: 0
+    stringValue: "False"
+    objectValue: {fileID: 0}
+  enemyEvents:
+  - name: "killedByPlayer"
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: "0"
+      objectValue: {fileID: 0}
+    listAction:
+    - name: "SpawnGemCoin"
+      parameters:
+      - name: "percentSpawn"
+        isUnityObject: 0
+        stringValue: "10"
+        objectValue: {fileID: 0}
+      - name: "ramdomNumberCoin"
+        isUnityObject: 0
+        stringValue: "True"
+        objectValue: {fileID: 0}
+      - name: "numberCoin"
+        isUnityObject: 0
+        stringValue: "2"
+        objectValue: {fileID: 0}
+      - name: "randomXSpaw"
+        isUnityObject: 0
+        stringValue: "1.5"
+        objectValue: {fileID: 0}
+      - name: "randomYSpaw"
+        isUnityObject: 0
+        stringValue: "1.5"
+        objectValue: {fileID: 0}
+      - name: "randomItem"
+        isUnityObject: 0
+        stringValue: "True"
+        objectValue: {fileID: 0}
+      - name: "type"
+        isUnityObject: 0
+        stringValue: "0"
+        objectValue: {fileID: 0}
+  - name: "afterSecond"
+    hasParameter: 1
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: "60"
+      objectValue: {fileID: 0}
+    listAction:
+    - name: "Skill0_ShotByHead"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "0"
+        objectValue: {fileID: 0}
+      - name: "numberTurn"
+        isUnityObject: 0
+        stringValue: "9"
+        objectValue: {fileID: 0}
+      - name: "numberBulletPerTurn"
+        isUnityObject: 0
+        stringValue: "5"
+        objectValue: {fileID: 0}
+      - name: "speedBullet"
+        isUnityObject: 0
+        stringValue: "6"
+        objectValue: {fileID: 0}
+    - name: "Skill1_Loll"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "0"
+        objectValue: {fileID: 0}
+    - name: "Skill2_ShotByTinyGuns"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "0"
+        objectValue: {fileID: 0}
+      - name: "numberBullet"
+        isUnityObject: 0
+        stringValue: "7"
+        objectValue: {fileID: 0}
+      - name: "speedBullet"
+        isUnityObject: 0
+        stringValue: "7"
+        objectValue: {fileID: 0}
+    - name: "Skill3_ShotByBigGuns"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "0"
+        objectValue: {fileID: 0}
+      - name: "numberBullet"
+        isUnityObject: 0
+        stringValue: "6"
+        objectValue: {fileID: 0}
+      - name: "speedBullet"
+        isUnityObject: 0
+        stringValue: "7"
+        objectValue: {fileID: 0}
+    - name: "Skill4_SpawnMeteos"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "0"
+        objectValue: {fileID: 0}
+      - name: "numberBullet"
+        isUnityObject: 0
+        stringValue: "2"
+        objectValue: {fileID: 0}
+      - name: "speedBullet"
+        isUnityObject: 0
+        stringValue: "5"
+        objectValue: {fileID: 0}
+    - name: "Skill5_Dash"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "0"
+        objectValue: {fileID: 0}
+      - name: "speedDash"
+        isUnityObject: 0
+        stringValue: "1"
+        objectValue: {fileID: 0}
+    - name: "Skill6_MultiLoll"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "0"
+        objectValue: {fileID: 0}
+    - name: "ActiveStatusAngry"
+      parameters: []
+  - name: "afterSecond"
+    hasParameter: 1
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: "59"
+      objectValue: {fileID: 0}
+    listAction:
+    - name: "ChangeStatAngry"
+      parameters:
+      - name: "statAngry"
+        isUnityObject: 0
+        stringValue: "1.1"
+        objectValue: {fileID: 0}
+  - name: "afterSecond"
+    hasParameter: 1
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: "4"
+      objectValue: {fileID: 0}
+    listAction:
+    - name: "StartAttack"
+      parameters: []
+  - name: "BaseStatBoss"
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: "0"
+      objectValue: {fileID: 0}
+    listAction:
+    - name: "Skill0_ShotByHead"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "1"
+        objectValue: {fileID: 0}
+      - name: "numberTurn"
+        isUnityObject: 0
+        stringValue: "5"
+        objectValue: {fileID: 0}
+      - name: "numberBulletPerTurn"
+        isUnityObject: 0
+        stringValue: "5"
+        objectValue: {fileID: 0}
+      - name: "speedBullet"
+        isUnityObject: 0
+        stringValue: "5"
+        objectValue: {fileID: 0}
+    - name: "Skill1_Loll"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "1"
+        objectValue: {fileID: 0}
+    - name: "Skill2_ShotByTinyGuns"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "1"
+        objectValue: {fileID: 0}
+      - name: "numberBullet"
+        isUnityObject: 0
+        stringValue: "7"
+        objectValue: {fileID: 0}
+      - name: "speedBullet"
+        isUnityObject: 0
+        stringValue: "6"
+        objectValue: {fileID: 0}
+    - name: "Skill4_SpawnMeteos"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "1"
+        objectValue: {fileID: 0}
+      - name: "numberBullet"
+        isUnityObject: 0
+        stringValue: "1"
+        objectValue: {fileID: 0}
+      - name: "speedBullet"
+        isUnityObject: 0
+        stringValue: "5"
+        objectValue: {fileID: 0}
+    - name: "Skill5_Dash"
+      parameters:
+      - name: "timeDelay"
+        isUnityObject: 0
+        stringValue: "1"
+        objectValue: {fileID: 0}
+      - name: "speedDash"
+        isUnityObject: 0
+        stringValue: "1"
+        objectValue: {fileID: 0}
+  - name: "StatAngry"
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: "0"
+      objectValue: {fileID: 0}
+    listAction:
+    - name: "ChangeStatAngry"
+      parameters:
+      - name: "statAngry"
+        isUnityObject: 0
+        stringValue: "1.2"
+        objectValue: {fileID: 0}
+  timeToNextEnemy: 0
+  extendEnemies:
+  - enemy: {fileID: 1790540067059482373, guid: a30a2d05e0744e689da7bd0da058b6b7, type: 2}
+    number: 1
+  randomPoint: 1
+  minX: -3.5
+  maxX: 3.5
+  stAttack: 0
+  numberOfEnemySelected: 1
+  timeToNextAction: 4
+  spawItem: 0
+  numberEnemySpawItem: 2
+  idItem: 0

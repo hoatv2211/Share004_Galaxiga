@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Level"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 44c4c60f66a34a10a35f85e3ddeccfa0, type: 3}
+    - {fileID: 21300000, guid: 31d2797b661f434d830c7281a0bfda58, type: 3}
+    - {fileID: 21300000, guid: 31f15c1cb1cc4845a3eace28d80edf8b, type: 3}
+    - {fileID: 21300000, guid: cdf76bdc0db34795851eed374c005aa6, type: 3}
+    - {fileID: 21300000, guid: 5178e8f5f7fe4d1b814c56d84be5f510, type: 3}
+    - {fileID: 21300000, guid: 644d4ce1755646049705beefc5f32551, type: 3}
+    - {fileID: 21300000, guid: 09f32fc3b69046bab81a1ad02b96bd5a, type: 3}
+    - {fileID: 21300000, guid: 80e8c3bcf6584690843a97e2c263b939, type: 3}
+    - {fileID: 21300000, guid: aca75c0990144af09d075b6ba1e75352, type: 3}
+    - {fileID: 21300000, guid: 49eb4febd1484ca79c830b68c776ed8a, type: 3}
+    - {fileID: 21300000, guid: 41e2d61b62ca498da29fb319919f8720, type: 3}
+    - {fileID: 21300000, guid: e969bd8e8ecc4d179a760bce17411355, type: 3}
+    - {fileID: 21300000, guid: 9f39affc24b949bb9ed29d9a01d6ed16, type: 3}
+    - {fileID: 21300000, guid: 689fe5e8f84e4d21bffdb18e51d51f67, type: 3}
+    - {fileID: 21300000, guid: 4e70a34c255446c982490a3497ddedcf, type: 3}
+    - {fileID: 21300000, guid: 63c889f11bc744aea85f8dbc72830a07, type: 3}
+    - {fileID: 21300000, guid: 57380c4e6fc743309c9c95ca4b3c3c62, type: 3}
+    - {fileID: 21300000, guid: 66161c24321340adbe0be6fb01dc408e, type: 3}
+    - {fileID: 21300000, guid: 1c8e43f0a77740b39045f117a24f9ca2, type: 3}
+    - {fileID: 21300000, guid: 1cd321c82c094c4db8be36a586005d4e, type: 3}
+    - {fileID: 21300000, guid: 2e73aeafbfb7495dbb507871c09f0ce9, type: 3}
+    - {fileID: 21300000, guid: bef3e7ed90424cba9b95a0f35c07c97d, type: 3}
+    - {fileID: 21300000, guid: 34943fa0803648db8d518f13fc4151a5, type: 3}
+    - {fileID: 21300000, guid: 24ca5369813040cb997eac3a566c0e20, type: 3}
+    - {fileID: 21300000, guid: b7b077b9f7be485e92e7111bf18c20e0, type: 3}
+    - {fileID: 21300000, guid: 9ac708e5f66d490ab7a3c28bce864dee, type: 3}
+    - {fileID: 21300000, guid: 8897fcaa194b4ee48eddd766c934f953, type: 3}
+    - {fileID: 21300000, guid: d10ac684420544ca9ec00c2ee16e01da, type: 3}
+    - {fileID: 21300000, guid: e994ddf274ef45c5bf75b25659fdf757, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Level"
+  m_IsVariant: 0

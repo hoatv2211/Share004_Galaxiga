@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Planet"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: c2e2b8271d404a11bc039293b49fc342, type: 3}
+    - {fileID: 21300000, guid: f9f427c60bda4010a8eb33215bbb83cd, type: 3}
+    - {fileID: 21300000, guid: 7e71ddda8bdc4047af703b2f4876a3e9, type: 3}
+    - {fileID: 21300000, guid: ecb5bb60fba64daca23b8b9f2de8fd2f, type: 3}
+    - {fileID: 21300000, guid: 6fcbed603fb34279a53c595a2cb7be29, type: 3}
+    - {fileID: 21300000, guid: 6ecbfad4de0443a7811ff2fdee01741c, type: 3}
+    - {fileID: 21300000, guid: 6e6081876d7547619e255eb6def7fd31, type: 3}
+    - {fileID: 21300000, guid: c66d81d0897a42bea40fe0783ac31ac6, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Planet"
+  m_IsVariant: 0

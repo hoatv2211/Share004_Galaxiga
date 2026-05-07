@@ -1,0 +1,97 @@
+
+Videoads_girl.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6 copy 2
+  rotate: true
+  xy: 252, 365
+  size: 133, 500
+  orig: 133, 500
+  offset: 0, 0
+  index: -1
+Layer 67
+  rotate: false
+  xy: 2, 2
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+Layer 68
+  rotate: true
+  xy: 1056, 313
+  size: 185, 258
+  orig: 185, 258
+  offset: 0, 0
+  index: -1
+Layer 70
+  rotate: true
+  xy: 252, 217
+  size: 146, 397
+  orig: 146, 397
+  offset: 0, 0
+  index: -1
+Layer 71
+  rotate: true
+  xy: 754, 279
+  size: 219, 300
+  orig: 219, 300
+  offset: 0, 0
+  index: -1
+Layer 72
+  rotate: false
+  xy: 1874, 367
+  size: 125, 131
+  orig: 125, 131
+  offset: 0, 0
+  index: -1
+Layer 73
+  rotate: true
+  xy: 1610, 351
+  size: 147, 262
+  orig: 147, 262
+  offset: 0, 0
+  index: -1
+Layer 74
+  rotate: true
+  xy: 252, 5
+  size: 210, 309
+  orig: 210, 309
+  offset: 0, 0
+  index: -1
+Layer 75
+  rotate: true
+  xy: 1316, 365
+  size: 133, 292
+  orig: 133, 292
+  offset: 0, 0
+  index: -1
+Layer 76
+  rotate: false
+  xy: 2, 59
+  size: 248, 439
+  orig: 248, 439
+  offset: 0, 0
+  index: -1
+Layer 76a
+  rotate: false
+  xy: 742, 167
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+Layer 77
+  rotate: false
+  xy: 563, 25
+  size: 177, 190
+  orig: 177, 190
+  offset: 0, 0
+  index: -1
+Layer 78
+  rotate: true
+  xy: 1316, 281
+  size: 82, 230
+  orig: 82, 230
+  offset: 0, 0
+  index: -1

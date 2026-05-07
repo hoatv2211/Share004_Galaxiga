@@ -1,0 +1,307 @@
+
+Bosschym.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/Boss12_Sprite/Boss12_AtkIdle_1
+  rotate: false
+  xy: 2, 761
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_AtkIdle_2
+  rotate: false
+  xy: 2, 503
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_AtkIdle_3
+  rotate: false
+  xy: 344, 761
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_AtkIdle_4
+  rotate: false
+  xy: 2, 245
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_AtkIdle_5
+  rotate: false
+  xy: 344, 503
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_AtkIdle_6
+  rotate: false
+  xy: 686, 761
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_AtkIdle_7
+  rotate: false
+  xy: 344, 245
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_AtkIdle_8
+  rotate: false
+  xy: 686, 503
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_Atkdown_1
+  rotate: false
+  xy: 1028, 761
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_Atkdown_2
+  rotate: false
+  xy: 686, 245
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_Atkdown_3
+  rotate: false
+  xy: 1028, 503
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_Atkdown_4
+  rotate: false
+  xy: 1370, 761
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_Atkup_1
+  rotate: false
+  xy: 1028, 245
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_Atkup_2
+  rotate: false
+  xy: 1370, 503
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_Atkup_3
+  rotate: true
+  xy: 1712, 677
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/Boss12_Sprite/Boss12_Atkup_4
+  rotate: false
+  xy: 1370, 245
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+Images/canh_0
+  rotate: false
+  xy: 2, 103
+  size: 162, 140
+  orig: 162, 140
+  offset: 0, 0
+  index: -1
+Images/canh_1
+  rotate: false
+  xy: 1712, 535
+  size: 162, 140
+  orig: 162, 140
+  offset: 0, 0
+  index: -1
+Images/canh_2
+  rotate: false
+  xy: 166, 103
+  size: 162, 140
+  orig: 162, 140
+  offset: 0, 0
+  index: -1
+Images/canh_3
+  rotate: false
+  xy: 1712, 393
+  size: 162, 140
+  orig: 162, 140
+  offset: 0, 0
+  index: -1
+Images/canh_4
+  rotate: false
+  xy: 330, 103
+  size: 162, 140
+  orig: 162, 140
+  offset: 0, 0
+  index: -1
+Images/canh_5
+  rotate: false
+  xy: 1712, 251
+  size: 162, 140
+  orig: 162, 140
+  offset: 0, 0
+  index: -1
+Images/canh_6
+  rotate: false
+  xy: 494, 103
+  size: 162, 140
+  orig: 162, 140
+  offset: 0, 0
+  index: -1
+Images/canh_7
+  rotate: false
+  xy: 658, 103
+  size: 162, 140
+  orig: 162, 140
+  offset: 0, 0
+  index: -1
+Images/canhduoi2
+  rotate: true
+  xy: 2, 2
+  size: 24, 65
+  orig: 24, 65
+  offset: 0, 0
+  index: -1
+Images/canhduoi_0
+  rotate: false
+  xy: 1970, 688
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Images/canhduoi_1
+  rotate: false
+  xy: 1876, 431
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Images/duoi_0
+  rotate: true
+  xy: 1970, 920
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+Images/duoi_1
+  rotate: false
+  xy: 2, 28
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+Images/duoi_2
+  rotate: true
+  xy: 1876, 578
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+Images/duoi_3
+  rotate: true
+  xy: 1970, 821
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+Images/duoi_4
+  rotate: false
+  xy: 101, 28
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+Images/duoi_5
+  rotate: true
+  xy: 1876, 479
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+Images/duoi_6
+  rotate: true
+  xy: 1970, 722
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+Images/duoi_7
+  rotate: false
+  xy: 200, 28
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+Images/than_0
+  rotate: false
+  xy: 822, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Images/than_1
+  rotate: false
+  xy: 933, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Images/than_2
+  rotate: false
+  xy: 1044, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Images/than_3
+  rotate: false
+  xy: 1155, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Images/than_4
+  rotate: false
+  xy: 1266, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Images/than_5
+  rotate: false
+  xy: 1377, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Images/than_6
+  rotate: false
+  xy: 1488, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Images/than_7
+  rotate: false
+  xy: 1599, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1

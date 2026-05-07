@@ -1,0 +1,286 @@
+
+Aircraft7.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aircraft7_E3/Aircraft4_E3_Idle_0
+  rotate: false
+  xy: 2, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Idle_1
+  rotate: false
+  xy: 2, 584
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Idle_2
+  rotate: false
+  xy: 196, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Idle_3
+  rotate: false
+  xy: 2, 390
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Idle_4
+  rotate: false
+  xy: 196, 584
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Twirling_right_0
+  rotate: false
+  xy: 390, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Twirling_right_1
+  rotate: false
+  xy: 2, 196
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Twirling_right_2
+  rotate: false
+  xy: 196, 390
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Twirling_right_3
+  rotate: false
+  xy: 390, 584
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E3/Aircraft4_E3_Twirling_right_4
+  rotate: false
+  xy: 584, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft4_Twirling_right_0
+  rotate: false
+  xy: 766, 68
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft4_Twirling_right_1
+  rotate: false
+  xy: 960, 262
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft4_Twirling_right_2
+  rotate: false
+  xy: 1154, 456
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft4_Twirling_right_3
+  rotate: false
+  xy: 1348, 650
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft4_Twirling_right_4
+  rotate: false
+  xy: 1542, 844
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft7_e4_idle_0
+  rotate: false
+  xy: 1685, 844
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft7_e4_idle_1
+  rotate: false
+  xy: 1828, 844
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft7_e4_idle_2
+  rotate: false
+  xy: 960, 134
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft7_e4_idle_3
+  rotate: false
+  xy: 1154, 328
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E4/aircraft7_e4_idle_4
+  rotate: false
+  xy: 1103, 200
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/Aircraft4_E4_Twirling_right_0
+  rotate: false
+  xy: 2, 2
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/Aircraft4_E4_Twirling_right_1
+  rotate: false
+  xy: 196, 196
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/Aircraft4_E4_Twirling_right_2
+  rotate: false
+  xy: 390, 390
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/Aircraft4_E4_Twirling_right_3
+  rotate: false
+  xy: 584, 584
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/Aircraft4_E4_Twirling_right_4
+  rotate: false
+  xy: 778, 778
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/aircraft7_e5_idle_0
+  rotate: false
+  xy: 193, 2
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/aircraft7_e5_idle_1
+  rotate: false
+  xy: 387, 196
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/aircraft7_e5_idle_2
+  rotate: false
+  xy: 581, 390
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/aircraft7_e5_idle_3
+  rotate: false
+  xy: 775, 584
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E5/aircraft7_e5_idle_4
+  rotate: false
+  xy: 969, 778
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/Aircraft4_E5_Twirling_right_0
+  rotate: false
+  xy: 384, 2
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/Aircraft4_E5_Twirling_right_1
+  rotate: false
+  xy: 578, 196
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/Aircraft4_E5_Twirling_right_2
+  rotate: false
+  xy: 772, 390
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/Aircraft4_E5_Twirling_right_3
+  rotate: false
+  xy: 966, 584
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/Aircraft4_E5_Twirling_right_4
+  rotate: false
+  xy: 1160, 778
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/aircraft7_e6_idle_0
+  rotate: false
+  xy: 575, 2
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/aircraft7_e6_idle_1
+  rotate: false
+  xy: 769, 196
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/aircraft7_e6_idle_2
+  rotate: false
+  xy: 963, 390
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/aircraft7_e6_idle_3
+  rotate: false
+  xy: 1157, 584
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Aircraft7_E6/aircraft7_e6_idle_4
+  rotate: false
+  xy: 1351, 778
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1

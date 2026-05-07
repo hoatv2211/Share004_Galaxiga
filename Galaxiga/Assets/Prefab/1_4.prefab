@@ -1,0 +1,987 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1790540065163628273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790540065213976446}
+  - component: {fileID: 1790540067059484420}
+  m_Layer: 0
+  m_Name: CircleMove (1)
+  m_TagString: 
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1790540065213976446
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163628273}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.6, y: 0.07, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1790540065213983402}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1790540067059484420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163628273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8384797ba746088e3bd541b9a9c99354, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToBegin: 3
+  timeToEnd: 0
+  enemy: {fileID: 1790540067059457882, guid: 0978c71f41cf482b9c336ea0291e9bf2, type: 3}
+  enemyFields:
+  - name: lockRotation
+    isUnityObject: 0
+    stringValue: True
+    objectValue: {fileID: 0}
+  - name: degrees
+    isUnityObject: 0
+    stringValue: 180
+    objectValue: {fileID: 0}
+  - name: point
+    isUnityObject: 0
+    stringValue: 0;9999999
+    objectValue: {fileID: 0}
+  enemyEvents:
+  - name: killedByPlayer
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 0
+      objectValue: {fileID: 0}
+    listAction:
+    - name: SpawItem
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 20
+        objectValue: {fileID: 0}
+    - name: SpawItemSuper
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 5
+        objectValue: {fileID: 0}
+    - name: SpawItemPlane
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 10
+        objectValue: {fileID: 0}
+    - name: SpawnGemCoin
+      parameters:
+      - name: percentSpawn
+        isUnityObject: 0
+        stringValue: 10
+        objectValue: {fileID: 0}
+      - name: ramdomNumberCoin
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+      - name: numberCoin
+        isUnityObject: 0
+        stringValue: 2
+        objectValue: {fileID: 0}
+      - name: randomItem
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+      - name: type
+        isUnityObject: 0
+        stringValue: 0
+        objectValue: {fileID: 0}
+  - name: started
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 0
+      objectValue: {fileID: 0}
+    listAction:
+    - name: NotHit
+      parameters:
+      - name: time
+        isUnityObject: 0
+        stringValue: 1
+        objectValue: {fileID: 0}
+  - name: EventLoop
+    hasParameter: 1
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 5
+      objectValue: {fileID: 0}
+    listAction:
+    - name: MultyAttack
+      parameters:
+      - name: percentAttack
+        isUnityObject: 0
+        stringValue: 20
+        objectValue: {fileID: 0}
+      - name: randomAttack
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+  numberOfEnemySelected: 0
+  timeToNextAction: 0
+  timeToBeginAction: -1
+  firstShape: {fileID: 0}
+  enemies:
+  - {fileID: 1790540067059484229, guid: 0e6ed5bb243248f39070ac56f812516c, type: 3}
+  - {fileID: 1790540067059487179, guid: 234c8a8112244eeca87855b4e4c554de, type: 3}
+  - {fileID: 1790540067059483526, guid: a72f6b1187fd47dea3dc652080e034d5, type: 3}
+  groupInfo:
+    shape: {fileID: 1790540067059485308, guid: ddce9d61ade34cd3a43bb400b6e09cf8, type: 3}
+    transformations:
+    - type: 0
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: -6.6, y: 0.07}
+      angle: 0
+      startTime: -1
+      loops: 99
+      loopType: 1
+      duration: 10
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 2
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 1.5, y: 1.5}
+      angle: 0
+      startTime: 0
+      loops: 99
+      loopType: 1
+      duration: 3
+      ease: 7
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 1
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 0, y: 0}
+      angle: -360
+      startTime: 0
+      loops: 99
+      loopType: 0
+      duration: 11
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 4
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 0, y: 0}
+      angle: 0
+      startTime: -1
+      loops: 1
+      loopType: 0
+      duration: 3
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+  numberOfGroup: 1
+  timeToNextGroup: 1
+--- !u!1 &1790540065163629895
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790540065213982519}
+  - component: {fileID: 1790540067059486221}
+  m_Layer: 0
+  m_Name: CenterMove
+  m_TagString: 
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1790540065213982519
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163629895}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.6, y: 5.19, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1790540065213983402}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1790540067059486221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163629895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8384797ba746088e3bd541b9a9c99354, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToBegin: 0.25
+  timeToEnd: 0
+  enemy: {fileID: 1790540067059483527, guid: 57432425fe594eeebfac90f73d222715, type: 3}
+  enemyFields:
+  - name: lockRotation
+    isUnityObject: 0
+    stringValue: True
+    objectValue: {fileID: 0}
+  - name: degrees
+    isUnityObject: 0
+    stringValue: 180
+    objectValue: {fileID: 0}
+  - name: point
+    isUnityObject: 0
+    stringValue: 0;9999999
+    objectValue: {fileID: 0}
+  enemyEvents:
+  - name: killedByPlayer
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 0
+      objectValue: {fileID: 0}
+    listAction:
+    - name: SpawItem
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 20
+        objectValue: {fileID: 0}
+    - name: SpawItemSuper
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 5
+        objectValue: {fileID: 0}
+    - name: SpawItemPlane
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 10
+        objectValue: {fileID: 0}
+    - name: SpawnGemCoin
+      parameters:
+      - name: percentSpawn
+        isUnityObject: 0
+        stringValue: 10
+        objectValue: {fileID: 0}
+      - name: ramdomNumberCoin
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+      - name: numberCoin
+        isUnityObject: 0
+        stringValue: 2
+        objectValue: {fileID: 0}
+      - name: randomItem
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+      - name: type
+        isUnityObject: 0
+        stringValue: 0
+        objectValue: {fileID: 0}
+  - name: started
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 0
+      objectValue: {fileID: 0}
+    listAction:
+    - name: NotHit
+      parameters:
+      - name: time
+        isUnityObject: 0
+        stringValue: 1
+        objectValue: {fileID: 0}
+  - name: EventLoop
+    hasParameter: 1
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 7
+      objectValue: {fileID: 0}
+    listAction:
+    - name: MultyAttack
+      parameters:
+      - name: percentAttack
+        isUnityObject: 0
+        stringValue: 100
+        objectValue: {fileID: 0}
+      - name: randomAttack
+        isUnityObject: 0
+        stringValue: False
+        objectValue: {fileID: 0}
+  numberOfEnemySelected: 0
+  timeToNextAction: 0
+  timeToBeginAction: -1
+  firstShape: {fileID: 0}
+  enemies:
+  - {fileID: 1790540067059483527, guid: 57432425fe594eeebfac90f73d222715, type: 3}
+  groupInfo:
+    shape: {fileID: 1790540067059485691, guid: 19db75f0ae674ab084e44676328929a9, type: 3}
+    transformations:
+    - type: 0
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 6.6, y: 5.19}
+      angle: 0
+      startTime: -1
+      loops: 99
+      loopType: 1
+      duration: 10
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 2
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 1.5, y: 1.5}
+      angle: 0
+      startTime: 0
+      loops: 99
+      loopType: 1
+      duration: 3
+      ease: 7
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 1
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 0, y: 0}
+      angle: 360
+      startTime: 0
+      loops: 99
+      loopType: 0
+      duration: 8
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 4
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 0, y: 0}
+      angle: 0
+      startTime: -1
+      loops: 1
+      loopType: 0
+      duration: 3
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+  numberOfGroup: 1
+  timeToNextGroup: 1
+--- !u!1 &1790540065163630430
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790540065213973153}
+  - component: {fileID: 1790540067059486835}
+  m_Layer: 0
+  m_Name: CenterMove (2)
+  m_TagString: 
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1790540065213973153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163630430}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.6, y: 0.07, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1790540065213983402}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1790540067059486835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163630430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8384797ba746088e3bd541b9a9c99354, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToBegin: 3.25
+  timeToEnd: 0
+  enemy: {fileID: 1790540067059483527, guid: 57432425fe594eeebfac90f73d222715, type: 3}
+  enemyFields:
+  - name: lockRotation
+    isUnityObject: 0
+    stringValue: True
+    objectValue: {fileID: 0}
+  - name: degrees
+    isUnityObject: 0
+    stringValue: 180
+    objectValue: {fileID: 0}
+  - name: point
+    isUnityObject: 0
+    stringValue: 0;9999999
+    objectValue: {fileID: 0}
+  enemyEvents:
+  - name: killedByPlayer
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 0
+      objectValue: {fileID: 0}
+    listAction:
+    - name: SpawItem
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 20
+        objectValue: {fileID: 0}
+    - name: SpawItemSuper
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 5
+        objectValue: {fileID: 0}
+    - name: SpawItemPlane
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 10
+        objectValue: {fileID: 0}
+    - name: SpawnGemCoin
+      parameters:
+      - name: percentSpawn
+        isUnityObject: 0
+        stringValue: 10
+        objectValue: {fileID: 0}
+      - name: ramdomNumberCoin
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+      - name: numberCoin
+        isUnityObject: 0
+        stringValue: 2
+        objectValue: {fileID: 0}
+      - name: randomItem
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+      - name: type
+        isUnityObject: 0
+        stringValue: 0
+        objectValue: {fileID: 0}
+  - name: started
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 0
+      objectValue: {fileID: 0}
+    listAction:
+    - name: NotHit
+      parameters:
+      - name: time
+        isUnityObject: 0
+        stringValue: 1
+        objectValue: {fileID: 0}
+  - name: EventLoop
+    hasParameter: 1
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 7
+      objectValue: {fileID: 0}
+    listAction:
+    - name: MultyAttack
+      parameters:
+      - name: percentAttack
+        isUnityObject: 0
+        stringValue: 100
+        objectValue: {fileID: 0}
+      - name: randomAttack
+        isUnityObject: 0
+        stringValue: False
+        objectValue: {fileID: 0}
+  numberOfEnemySelected: 0
+  timeToNextAction: 0
+  timeToBeginAction: -1
+  firstShape: {fileID: 0}
+  enemies:
+  - {fileID: 1790540067059483527, guid: 57432425fe594eeebfac90f73d222715, type: 3}
+  groupInfo:
+    shape: {fileID: 1790540067059485691, guid: 19db75f0ae674ab084e44676328929a9, type: 3}
+    transformations:
+    - type: 0
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: -6.6, y: 0.07}
+      angle: 0
+      startTime: -1
+      loops: 99
+      loopType: 1
+      duration: 10
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 2
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 1.5, y: 1.5}
+      angle: 0
+      startTime: 0
+      loops: 99
+      loopType: 1
+      duration: 3
+      ease: 7
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 1
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 0, y: 0}
+      angle: -360
+      startTime: 0
+      loops: 99
+      loopType: 0
+      duration: 8
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 4
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 0, y: 0}
+      angle: 0
+      startTime: -1
+      loops: 1
+      loopType: 0
+      duration: 3
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+  numberOfGroup: 1
+  timeToNextGroup: 1
+--- !u!1 &1790540065163634906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790540065213972682}
+  - component: {fileID: 1790540067059485490}
+  m_Layer: 0
+  m_Name: CircleMove
+  m_TagString: 
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1790540065213972682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163634906}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.6, y: 5.19, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1790540065213983402}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1790540067059485490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163634906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8384797ba746088e3bd541b9a9c99354, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToBegin: 0
+  timeToEnd: 0
+  enemy: {fileID: 1790540067059457882, guid: 0978c71f41cf482b9c336ea0291e9bf2, type: 3}
+  enemyFields:
+  - name: lockRotation
+    isUnityObject: 0
+    stringValue: True
+    objectValue: {fileID: 0}
+  - name: degrees
+    isUnityObject: 0
+    stringValue: 180
+    objectValue: {fileID: 0}
+  - name: point
+    isUnityObject: 0
+    stringValue: 0;9999999
+    objectValue: {fileID: 0}
+  enemyEvents:
+  - name: killedByPlayer
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 0
+      objectValue: {fileID: 0}
+    listAction:
+    - name: SpawItem
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 20
+        objectValue: {fileID: 0}
+    - name: SpawItemSuper
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 5
+        objectValue: {fileID: 0}
+    - name: SpawItemPlane
+      parameters:
+      - name: percent
+        isUnityObject: 0
+        stringValue: 10
+        objectValue: {fileID: 0}
+    - name: SpawnGemCoin
+      parameters:
+      - name: percentSpawn
+        isUnityObject: 0
+        stringValue: 10
+        objectValue: {fileID: 0}
+      - name: ramdomNumberCoin
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+      - name: numberCoin
+        isUnityObject: 0
+        stringValue: 2
+        objectValue: {fileID: 0}
+      - name: randomItem
+        isUnityObject: 0
+        stringValue: True
+        objectValue: {fileID: 0}
+      - name: type
+        isUnityObject: 0
+        stringValue: 0
+        objectValue: {fileID: 0}
+  - name: started
+    hasParameter: 0
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 0
+      objectValue: {fileID: 0}
+    listAction:
+    - name: NotHit
+      parameters:
+      - name: time
+        isUnityObject: 0
+        stringValue: 1
+        objectValue: {fileID: 0}
+  - name: EventLoop
+    hasParameter: 1
+    parameter:
+      name: 
+      isUnityObject: 0
+      stringValue: 5
+      objectValue: {fileID: 0}
+    listAction:
+    - name: Attack
+      parameters:
+      - name: randomTime
+        isUnityObject: 0
+        stringValue: False
+        objectValue: {fileID: 0}
+      - name: percentAttack
+        isUnityObject: 0
+        stringValue: 20
+        objectValue: {fileID: 0}
+      - name: numStyleAttack
+        isUnityObject: 0
+        stringValue: 0
+        objectValue: {fileID: 0}
+      - name: delaytime
+        isUnityObject: 0
+        stringValue: 1
+        objectValue: {fileID: 0}
+  numberOfEnemySelected: 0
+  timeToNextAction: 0
+  timeToBeginAction: -1
+  firstShape: {fileID: 0}
+  enemies:
+  - {fileID: 1790540067059457321, guid: 7fb2ef11174841198a58a2b1fb4dd8b1, type: 3}
+  - {fileID: 1790540067059487179, guid: 234c8a8112244eeca87855b4e4c554de, type: 3}
+  - {fileID: 1790540067059483526, guid: a72f6b1187fd47dea3dc652080e034d5, type: 3}
+  groupInfo:
+    shape: {fileID: 1790540067059485308, guid: ddce9d61ade34cd3a43bb400b6e09cf8, type: 3}
+    transformations:
+    - type: 0
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 6.6, y: 5.19}
+      angle: 0
+      startTime: -1
+      loops: 99
+      loopType: 1
+      duration: 10
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 2
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 1.5, y: 1.5}
+      angle: 0
+      startTime: 0
+      loops: 99
+      loopType: 1
+      duration: 3
+      ease: 7
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 1
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 0, y: 0}
+      angle: 360
+      startTime: 0
+      loops: 99
+      loopType: 0
+      duration: 11
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    - type: 4
+      path: {fileID: 0}
+      pathType: 1
+      pathMode: 0
+      endValue: {x: 0, y: 0}
+      angle: 0
+      startTime: -1
+      loops: 1
+      loopType: 0
+      duration: 3
+      ease: 1
+      curve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+  numberOfGroup: 1
+  timeToNextGroup: 1
+--- !u!1 &1790540065163635933
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790540065213983402}
+  - component: {fileID: 1790540067059483927}
+  - component: {fileID: 1790540067059486689}
+  m_Layer: 0
+  m_Name: 1_4
+  m_TagString: 
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1790540065213983402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163635933}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1790540065213972682}
+  - {fileID: 1790540065213976446}
+  - {fileID: 1790540065213982519}
+  - {fileID: 1790540065213973153}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1790540067059483927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163635933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c97d522c687667977e12ebc931b0c02e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  warningTime: 2
+  difficultyLevel: 0
+  decodeOverMultipleFrames: 1
+  startTurnOverMultipleFrames: 1
+  numberItem: 1
+  addItem: 0
+  item: {fileID: 1790540065163630025, guid: fe426dc019b546ddb842383858bb2e88, type: 3}
+  numberItemSuper: 1
+  addItemSuper: 0
+  itemSuper: {fileID: 1790540065163627805, guid: 4a41721937fa47248d49f48578140cb7,
+    type: 3}
+  numberItemPlane: 1
+  addItemPlane: 0
+  ListItemPlane:
+  - {fileID: 1790540065163627655, guid: 8c9cb90e1a2742909f528f46aca026e8, type: 3}
+  spawnPlaneOnList: 0
+  waveBoss: 0
+  ListCoinGem:
+  - {fileID: 1790540065163630462, guid: 62425b1b45134dc1b000f3d8a01d6b51, type: 3}
+  - {fileID: 1790540065163630462, guid: 62425b1b45134dc1b000f3d8a01d6b51, type: 3}
+  - {fileID: 1790540065163630462, guid: 62425b1b45134dc1b000f3d8a01d6b51, type: 3}
+  delayWin: 2
+  spawItemNumberDrop: 0
+  numberDrop: 0
+  addNumberDrop: 0
+  percentSpawnItemEvent: 100
+  itemSpawnDrop: {fileID: 0}
+  showWarning: 0
+  warning: {fileID: 0}
+  ListPoinWarning: []
+  numberEnemyMove: 0
+  maxEnemyMove: 3
+--- !u!114 &1790540067059486689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790540065163635933}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e623596f94b35b6baf05ec9b21cf2ae6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1
+  direction: {x: 1, y: 0}
+  unitToMove: 4
+  startMove: 1
+  timeStartMove: 10

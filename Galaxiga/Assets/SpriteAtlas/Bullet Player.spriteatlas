@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Bullet Player"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: ff6dec42d7ff4a23a10cd1fe8a0c60bc, type: 3}
+    - {fileID: 21300000, guid: ab3db4cb9747415994038f69071f91cc, type: 3}
+    - {fileID: 21300000, guid: 5c1db912d1334af683afb0caa0156e08, type: 3}
+    - {fileID: 21300000, guid: fbbcc38192ce42499590391f4af0aac2, type: 3}
+    - {fileID: 21300000, guid: 1ecec417a380449682c04e42be17a6ba, type: 3}
+    - {fileID: 21300000, guid: d9a7fb08f870460790bffd2c351ae633, type: 3}
+    - {fileID: 21300000, guid: 6a6ea4a4b3514bc18271ccc2519d2d9f, type: 3}
+    - {fileID: 21300000, guid: 3129d4a170be4973b77f44f8b049e66a, type: 3}
+    - {fileID: 21300000, guid: 10d13f9d12bc4585926077089e6d3e21, type: 3}
+    - {fileID: 21300000, guid: c408349a847249f0a51d58f87f5397a8, type: 3}
+    - {fileID: 21300000, guid: cbd5826cb66c46f4aa037ffb46735547, type: 3}
+    - {fileID: 21300000, guid: 8f8deac050994c9889113af60d055cc3, type: 3}
+    - {fileID: 21300000, guid: 451911eb20ca4419b80897b820f36b11, type: 3}
+    - {fileID: 21300000, guid: ecb4c2ce20f34d2a8c3706b7b39375b9, type: 3}
+    - {fileID: 21300000, guid: 284b5f0eff4c488b9e690d350ce19ce2, type: 3}
+    - {fileID: 21300000, guid: 9cb2af0987ff40e494bc0bea4c295a71, type: 3}
+    - {fileID: 21300000, guid: 4dcac9bd9d8e4e23b05a76be8d894888, type: 3}
+    - {fileID: 21300000, guid: 81fcc5b7eaa24f7b84248af221fdd465, type: 3}
+    - {fileID: 21300000, guid: d5578433f7c64bfda8bee52dc97105ac, type: 3}
+    - {fileID: 21300000, guid: fc4a2769853644e8aa70d3a8306eefed, type: 3}
+    - {fileID: 21300000, guid: 66c79e69d6c4437dbdb77f3038f264ff, type: 3}
+    - {fileID: 21300000, guid: 5e676ddf299840369720b0290c0eab00, type: 3}
+    - {fileID: 21300000, guid: 8188672a6e554e68af140471d0c2bda6, type: 3}
+    - {fileID: 21300000, guid: dd06dda95fa14cd9917f74493a7c3b46, type: 3}
+    - {fileID: 21300000, guid: 38e7bed9360d408caaa9e98412626c1e, type: 3}
+    - {fileID: 21300000, guid: 9dcb2e70c2044a49a4c4c9a5c9b48d47, type: 3}
+    - {fileID: 21300000, guid: 464c751cc3ba47a398a74a88fd1de863, type: 3}
+    - {fileID: 21300000, guid: d165eb2dbd3f43228ef5deb29c496f91, type: 3}
+    - {fileID: 21300000, guid: 370bece7d88f41e595b1b2936138c9bf, type: 3}
+    - {fileID: 21300000, guid: 748b71fc715141aa841f4b2e22b47369, type: 3}
+    - {fileID: 21300000, guid: f712eb1cbab147a6ab2c27873867a2a7, type: 3}
+    - {fileID: 21300000, guid: 0691c0a40c1f4a5080c34565a2d409b2, type: 3}
+    - {fileID: 21300000, guid: 3e220195453b49a78c894501e3bd7142, type: 3}
+    - {fileID: 21300000, guid: 0a93e9728eca431a941abd57a4c2408d, type: 3}
+    - {fileID: 21300000, guid: c8e4dbe9b79643659c337da5edc64a3a, type: 3}
+    - {fileID: 21300000, guid: 0150ab2727824e4d8bd5114f54057a83, type: 3}
+    - {fileID: 21300000, guid: 3082cbc24b3140e8a909487d309ecb3d, type: 3}
+    - {fileID: 21300000, guid: f8569b43a4f345ac86ffbc5a9886261b, type: 3}
+    - {fileID: 21300000, guid: 933147a2102a4d8e8d76f2b6ac31e00f, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Bullet Player"
+  m_IsVariant: 0

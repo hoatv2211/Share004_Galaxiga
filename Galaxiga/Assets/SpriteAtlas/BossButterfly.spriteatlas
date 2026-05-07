@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "BossButterfly"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: e965b705f0344758b83bbe7368ae38c7, type: 3}
+    - {fileID: 21300000, guid: ab8838db4bd74ad5b1337ee5d85ac093, type: 3}
+    - {fileID: 21300000, guid: 7f9f7c96b565435fb0d964240f4c2578, type: 3}
+    - {fileID: 21300000, guid: 134feb505cf44fe38de5adca9cdf4109, type: 3}
+    - {fileID: 21300000, guid: 2981ea8847e94d29b1b1414f054b9975, type: 3}
+    - {fileID: 21300000, guid: 331da60dd0df48508467d97191e9ce97, type: 3}
+    - {fileID: 21300000, guid: 91f648af88aa452c9961f57876ff9759, type: 3}
+    - {fileID: 21300000, guid: 3dffb41881554cc79f8d450c595d2217, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "BossButterfly"
+  m_IsVariant: 0

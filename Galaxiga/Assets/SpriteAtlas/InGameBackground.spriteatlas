@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "InGameBackground"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 4c72c868c4ae47b88f0a05bd85a1f69d, type: 3}
+    - {fileID: 21300000, guid: 569b7038d071445f8e33bd7282a22f20, type: 3}
+    - {fileID: 21300000, guid: 84e25665518e44f48987bee06d803ed9, type: 3}
+    - {fileID: 21300000, guid: 136ba5628b654fd0ac5e1d1e7019262b, type: 3}
+    - {fileID: 21300000, guid: f510cb54a2db4e7497a42b3363ff34f0, type: 3}
+    - {fileID: 21300000, guid: 0dcddca911524d479a8ad62949565d8f, type: 3}
+    - {fileID: 21300000, guid: b37fc04dd51e4631b3d632c3d531cb17, type: 3}
+    - {fileID: 21300000, guid: 6d332fec822740208454ff95e900b452, type: 3}
+    - {fileID: 21300000, guid: 7b80d66a0ffc4a60982553b19e6715c9, type: 3}
+    - {fileID: 21300000, guid: bf4f67f592a54f70962e1cc7edb94dda, type: 3}
+    - {fileID: 21300000, guid: 0afd9f292ec848a0bb5550c0e47b1b27, type: 3}
+    - {fileID: 21300000, guid: a51c8ee911f64e4b90a1dbbbb569024b, type: 3}
+    - {fileID: 21300000, guid: 97c5472e64c8446baf0d47aa03a85c0f, type: 3}
+    - {fileID: 21300000, guid: ef713b0ee05f4951bae8cd67dbbe59a2, type: 3}
+    - {fileID: 21300000, guid: b856dafc5ee84439b41c28e7f0b65249, type: 3}
+    - {fileID: 21300000, guid: 69573e099c59416cb0449f7278aed080, type: 3}
+    - {fileID: 21300000, guid: b01a829cabd84e38b9565bda6e2405ae, type: 3}
+    - {fileID: 21300000, guid: 29ce0b4ed4cf40dab3499bc9ab643da0, type: 3}
+    - {fileID: 21300000, guid: 0ff23da696cf43a89a1ba9b9fbc712bc, type: 3}
+    - {fileID: 21300000, guid: 0c285befeb8342058ac07aed86396b11, type: 3}
+    - {fileID: 21300000, guid: 27f7f83257734c1f95f9dced63f10537, type: 3}
+    - {fileID: 21300000, guid: 6333efa21c934e268adda9446489f046, type: 3}
+    - {fileID: 21300000, guid: eb51470cc74f4c7e971cf0ef9c22aadd, type: 3}
+    - {fileID: 21300000, guid: c11838e3d9644bb3a507e273812b2233, type: 3}
+    - {fileID: 21300000, guid: 341d5f7829234c9581258a91faf22ef6, type: 3}
+    - {fileID: 21300000, guid: 45df662c19934f88abb63f9d05d73770, type: 3}
+    - {fileID: 21300000, guid: 00e5b926f8124b5abfacbd07c0be66b1, type: 3}
+    - {fileID: 21300000, guid: dbb7a3207f91410b96f3a3fff1b6d86a, type: 3}
+    - {fileID: 21300000, guid: 05976c70ce75485ba6c631bdbc04a430, type: 3}
+    - {fileID: 21300000, guid: 28db2756e70949b0b391ec8f097819c4, type: 3}
+    - {fileID: 21300000, guid: 5f9292acb11c48faa0cf158c85bc32ba, type: 3}
+    - {fileID: 21300000, guid: 3d4ed5c8c0a4447fbd74b608db73027a, type: 3}
+    - {fileID: 21300000, guid: 5dbd3f392d71461983f8f391961b1c4c, type: 3}
+    - {fileID: 21300000, guid: 933cf1ea2a7c48acadad06587d5122fd, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "InGameBackground"
+  m_IsVariant: 0

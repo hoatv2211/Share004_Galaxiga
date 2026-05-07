@@ -1,0 +1,76 @@
+
+Aircraft4_Wings.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 15 (merged)a
+  rotate: true
+  xy: 133, 63
+  size: 63, 124
+  orig: 63, 124
+  offset: 0, 0
+  index: -1
+Group 15 (merged)b
+  rotate: false
+  xy: 585, 63
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+Group 15 (merged)c
+  rotate: false
+  xy: 764, 69
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Group 15 (merged)d
+  rotate: true
+  xy: 59, 5
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+Group 15 (merged)e
+  rotate: true
+  xy: 475, 69
+  size: 57, 108
+  orig: 57, 108
+  offset: 0, 0
+  index: -1
+Group 15 (merged)f
+  rotate: true
+  xy: 687, 77
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+Group 15 (merged)g
+  rotate: true
+  xy: 2, 2
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+Group 15 (merged)h
+  rotate: true
+  xy: 259, 40
+  size: 86, 110
+  orig: 86, 110
+  offset: 0, 0
+  index: -1
+Group 15 (merged)i
+  rotate: false
+  xy: 371, 49
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+Group 15 (merged)k
+  rotate: true
+  xy: 2, 54
+  size: 72, 129
+  orig: 72, 129
+  offset: 0, 0
+  index: -1

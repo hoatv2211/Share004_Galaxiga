@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "PopupReward"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: aaac4e2864b64ccc982e38cc1b01ad45, type: 3}
+    - {fileID: 21300000, guid: caa38680ece7497ba65e5998e63b5a01, type: 3}
+    - {fileID: 21300000, guid: 80150fed07854c0da2752e4c78dc17ab, type: 3}
+    - {fileID: 21300000, guid: eb1dad3bd10e48e6bbeef6dab3aafd6d, type: 3}
+    - {fileID: 21300000, guid: 03fc2a3a1c66497082da267bdf77fe22, type: 3}
+    - {fileID: 21300000, guid: d53d85a8c84d4f5392538c1b140399dc, type: 3}
+    - {fileID: 21300000, guid: 46a593a8e1874d5b8a9929e0c074508c, type: 3}
+    - {fileID: 21300000, guid: 36fdaccac08542408e66dfd8ef1df64a, type: 3}
+    - {fileID: 21300000, guid: 59b967505fcc4b31afaa06a5ebde90b8, type: 3}
+    - {fileID: 21300000, guid: cc1471935d6c4bf3a07076ba2a8e7712, type: 3}
+    - {fileID: 21300000, guid: 64d51d4816bf4c7e9b50b83c5c736c95, type: 3}
+    - {fileID: 21300000, guid: a500c6ccb3f2479185a6f27b6a081150, type: 3}
+    - {fileID: 21300000, guid: 9f138ddfb5584bad93f62623892ca487, type: 3}
+    - {fileID: 21300000, guid: 046f95b0f5bd4b659ea229f404933bb7, type: 3}
+    - {fileID: 21300000, guid: 74c0cb2a62ac441fafcad5306158e236, type: 3}
+    - {fileID: 21300000, guid: 47a8c52b88694ed39a33ea0106d67229, type: 3}
+    - {fileID: 21300000, guid: 97760b853ec64e4cb818da664a1312b9, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "PopupReward"
+  m_IsVariant: 0

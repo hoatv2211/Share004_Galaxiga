@@ -1,0 +1,27 @@
+
+round.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+^8DA23D9D08544A3F4933C7DF98D6136333C18EFB13CDD88190^pimgpsh_fullsize_distr
+  rotate: false
+  xy: 300, 270
+  size: 22, 107
+  orig: 22, 107
+  offset: 0, 0
+  index: -1
+^99B02B38396607373489EAA5534BEB71524228471AA3FE7057^pimgpsh_fullsize_distr
+  rotate: false
+  xy: 2, 81
+  size: 296, 296
+  orig: 296, 296
+  offset: 0, 0
+  index: -1
+^A035F1632C9BD1391703961DEAA15A36F059CCBE1D377E9F7D^pimgpsh_fullsize_distr
+  rotate: false
+  xy: 2, 2
+  size: 254, 77
+  orig: 254, 77
+  offset: 0, 0
+  index: -1

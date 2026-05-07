@@ -1,0 +1,181 @@
+
+boss11.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss11/Bos11_Idle_cam_0
+  rotate: false
+  xy: 650, 71
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_cam_1
+  rotate: false
+  xy: 812, 197
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_cam_2
+  rotate: false
+  xy: 650, 14
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_cam_3
+  rotate: true
+  xy: 750, 28
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_cam_4
+  rotate: false
+  xy: 812, 140
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_cam_5
+  rotate: false
+  xy: 912, 197
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_cam_6
+  rotate: false
+  xy: 912, 140
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_cam_7
+  rotate: false
+  xy: 1012, 197
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_head_0
+  rotate: false
+  xy: 2, 2
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_head_1
+  rotate: false
+  xy: 164, 128
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_head_2
+  rotate: false
+  xy: 164, 2
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_head_3
+  rotate: false
+  xy: 326, 128
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_head_4
+  rotate: false
+  xy: 326, 2
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_head_5
+  rotate: false
+  xy: 488, 128
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_head_6
+  rotate: false
+  xy: 488, 2
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_head_7
+  rotate: false
+  xy: 650, 128
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_mieng_0
+  rotate: false
+  xy: 1012, 154
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_mieng_1
+  rotate: false
+  xy: 1112, 211
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_mieng_2
+  rotate: false
+  xy: 1190, 211
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_mieng_3
+  rotate: false
+  xy: 1268, 211
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_mieng_4
+  rotate: false
+  xy: 1346, 211
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_mieng_5
+  rotate: false
+  xy: 1424, 211
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_mieng_6
+  rotate: false
+  xy: 1502, 211
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+boss11/Bos11_Idle_mieng_7
+  rotate: false
+  xy: 1580, 211
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+boss11/Boss11_Fire_glow
+  rotate: false
+  xy: 2, 128
+  size: 160, 124
+  orig: 160, 124
+  offset: 0, 0
+  index: -1

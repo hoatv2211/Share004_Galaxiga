@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Endless"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: e232bce2080b4dcba7960db3bb23ee47, type: 3}
+    - {fileID: 21300000, guid: fcc2f51302ac4385ada357cf8c7dc38e, type: 3}
+    - {fileID: 21300000, guid: e734299c929546c4aed37d271822d0bd, type: 3}
+    - {fileID: 21300000, guid: cec7a9c77084489eb310eb53887b9433, type: 3}
+    - {fileID: 21300000, guid: 9d3c880ee0b14c90b7c7cb4bfd635d3f, type: 3}
+    - {fileID: 21300000, guid: 376e2129f2c147b486466f5568495448, type: 3}
+    - {fileID: 21300000, guid: afba92ed8d9c4299abe8d76816438792, type: 3}
+    - {fileID: 21300000, guid: 997a473868a14beda93ba4439b4e878b, type: 3}
+    - {fileID: 21300000, guid: b9e452eef60a4964a6006a48f39817e4, type: 3}
+    - {fileID: 21300000, guid: 814f781c56b548f881b62b8423a7f360, type: 3}
+    - {fileID: 21300000, guid: 4f2002dd134c4445a69e5974677afbb9, type: 3}
+    - {fileID: 21300000, guid: ca04d6c07b3c482aa8275d16163f2a79, type: 3}
+    - {fileID: 21300000, guid: ddb9f81c1ff04c48a43d961b766b21e1, type: 3}
+    - {fileID: 21300000, guid: fd9ef06b9068483d8a141f053dbe28a8, type: 3}
+    - {fileID: 21300000, guid: d80b68e140864e3aaa5ed17ceeced4bf, type: 3}
+    - {fileID: 21300000, guid: 6407774d80504d08b846fa9f3ffe6471, type: 3}
+    - {fileID: 21300000, guid: 1b8286273ff04232aa99d200bcb0417c, type: 3}
+    - {fileID: 21300000, guid: e36a2854cbdd40ef9bc4344309055d33, type: 3}
+    - {fileID: 21300000, guid: 22dab4280ca745a9ab6d6c2328195d20, type: 3}
+    - {fileID: 21300000, guid: ae56adb078f84b35b5d126aaca2573ba, type: 3}
+    - {fileID: 21300000, guid: f1379e0c15ff4a69b1a21f769054ea62, type: 3}
+    - {fileID: 21300000, guid: 8266578e32c448478efdf0ef2bd2cf9d, type: 3}
+    - {fileID: 21300000, guid: ccad09b80dde4b309f4bfd88b7b9b0dd, type: 3}
+    - {fileID: 21300000, guid: 4a204262776b4ce6a1276bd5d96178ea, type: 3}
+    - {fileID: 21300000, guid: 56ff39ba063c4cf0b6458de7520e2201, type: 3}
+    - {fileID: 21300000, guid: 7d586d0e1efd42bd8bc939d04f0c520b, type: 3}
+    - {fileID: 21300000, guid: 229fc102790f4af886534190b69d915d, type: 3}
+    - {fileID: 21300000, guid: 2458a9b797544b60bd693e8f3881fa86, type: 3}
+    - {fileID: 21300000, guid: b5d2a72a4cdd4dd195c05b571054b88b, type: 3}
+    - {fileID: 21300000, guid: c11252f7ebbd4203be2fdaac216adabd, type: 3}
+    - {fileID: 21300000, guid: e0c70f789d844456bad32b73e14d9ef5, type: 3}
+    - {fileID: 21300000, guid: 23854e9edd94429eb7c7f2fdf397274f, type: 3}
+    - {fileID: 21300000, guid: ddeb1a95db24422eb4c5e3ef765f54c5, type: 3}
+    - {fileID: 21300000, guid: 31b9101dc77b458ea1a3eca3a7f9d2d2, type: 3}
+    - {fileID: 21300000, guid: d5207fc56f5d46b895a04c83770decb0, type: 3}
+    - {fileID: 21300000, guid: 5ce67fe490274c84be1a8e832fd1853c, type: 3}
+    - {fileID: 21300000, guid: 6bd1582e88d14133967963e9c66b7d57, type: 3}
+    - {fileID: 21300000, guid: 942f384ad0794d54a2a17c4afeb3a5ed, type: 3}
+    - {fileID: 21300000, guid: b9467c2f34be4aa58a71584af8ddccd0, type: 3}
+    - {fileID: 21300000, guid: eb3f6b27e6b242df8d72a942a0344a3d, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Endless"
+  m_IsVariant: 0

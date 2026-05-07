@@ -1,0 +1,230 @@
+
+StarterPack.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aircraft3_1
+  rotate: false
+  xy: 2, 177
+  size: 375, 329
+  orig: 375, 329
+  offset: 0, 0
+  index: -1
+Aircraft3_2
+  rotate: false
+  xy: 511, 686
+  size: 375, 329
+  orig: 375, 329
+  offset: 0, 0
+  index: -1
+Aircraft3_3
+  rotate: false
+  xy: 888, 686
+  size: 375, 329
+  orig: 375, 329
+  offset: 0, 0
+  index: -1
+Aircraft3_4
+  rotate: false
+  xy: 1265, 686
+  size: 375, 329
+  orig: 375, 329
+  offset: 0, 0
+  index: -1
+Aircraft3_5
+  rotate: false
+  xy: 1642, 686
+  size: 375, 329
+  orig: 375, 329
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 508
+  size: 507, 507
+  orig: 507, 507
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 379, 471
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 1908, 631
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 348, 146
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 1472, 455
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2019, 995
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2019, 995
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 379, 167
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 379, 167
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1908, 619
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 1908, 619
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1963, 678
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 1963, 678
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+drone1
+  rotate: false
+  xy: 179, 23
+  size: 167, 152
+  orig: 167, 152
+  offset: 0, 0
+  index: -1
+drone2
+  rotate: false
+  xy: 2, 21
+  size: 175, 154
+  orig: 175, 154
+  offset: 0, 0
+  index: -1
+drone2_1
+  rotate: false
+  xy: 818, 468
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone2_2
+  rotate: false
+  xy: 1036, 468
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone2_3
+  rotate: false
+  xy: 1254, 468
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone2_4
+  rotate: false
+  xy: 1472, 468
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone2_5
+  rotate: false
+  xy: 1690, 468
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone3_1
+  rotate: false
+  xy: 379, 186
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone3_2
+  rotate: false
+  xy: 597, 186
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone3_3
+  rotate: false
+  xy: 818, 250
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone3_4
+  rotate: false
+  xy: 1036, 250
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+drone3_5
+  rotate: false
+  xy: 1254, 250
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+spaceship
+  rotate: false
+  xy: 511, 404
+  size: 305, 280
+  orig: 305, 280
+  offset: 0, 0
+  index: -1

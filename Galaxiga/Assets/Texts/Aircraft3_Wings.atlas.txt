@@ -1,0 +1,76 @@
+
+Aircraft3_Wings.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 18 (merged)a
+  rotate: false
+  xy: 193, 25
+  size: 111, 81
+  orig: 111, 81
+  offset: 0, 0
+  index: -1
+Group 18 (merged)b
+  rotate: true
+  xy: 495, 49
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Group 18 (merged)c
+  rotate: false
+  xy: 2, 2
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1
+Group 18 (merged)d
+  rotate: true
+  xy: 772, 56
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Group 18 (merged)e
+  rotate: false
+  xy: 707, 52
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+Group 18 (merged)f
+  rotate: false
+  xy: 573, 46
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+Group 18 (merged)g
+  rotate: false
+  xy: 95, 9
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+Group 18 (merged)h
+  rotate: false
+  xy: 306, 31
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Group 18 (merged)i
+  rotate: true
+  xy: 641, 46
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+Group 18 (merged)k
+  rotate: true
+  xy: 402, 51
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1

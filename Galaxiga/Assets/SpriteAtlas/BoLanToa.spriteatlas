@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "BoLanToa"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 37de188a8e8b4f37a43927a760f2aca4, type: 3}
+    - {fileID: 21300000, guid: 7c26db6eb1594c3e8618a6c4f54aa1a9, type: 3}
+    - {fileID: 21300000, guid: 06f17845dee644379018e139f8e696e4, type: 3}
+    - {fileID: 21300000, guid: 178178f6285a4580ba45e454a19ebaac, type: 3}
+    - {fileID: 21300000, guid: c245d766bf1544f183bcfb6f23754e2d, type: 3}
+    - {fileID: 21300000, guid: a9bab8d1f6604deeb82548010b67ce89, type: 3}
+    - {fileID: 21300000, guid: 6a8ee7bdbeb34845940f90794e99fe6a, type: 3}
+    - {fileID: 21300000, guid: 7d706d7ea84f474ba82f1572c7e0a014, type: 3}
+    - {fileID: 21300000, guid: 924a07a71edb4fbcbd09d579f5c11510, type: 3}
+    - {fileID: 21300000, guid: 5c9276b1e5ab417c9c5223a512e1b434, type: 3}
+    - {fileID: 21300000, guid: 8fc6c7be2f744146b4aab79e97cffec7, type: 3}
+    - {fileID: 21300000, guid: 922aefc3756e4bf495e0302a8e6966bf, type: 3}
+    - {fileID: 21300000, guid: 4706f939fc9f41b99b57c97e682241da, type: 3}
+    - {fileID: 21300000, guid: ecd5fd4b3950459a9d6612d42427ffe3, type: 3}
+    - {fileID: 21300000, guid: 76379cabde0844c186a4af39c57ceb94, type: 3}
+    - {fileID: 21300000, guid: 7efb507c3d6d414b941b60ac625c7a9e, type: 3}
+    - {fileID: 21300000, guid: d49b282eb81f49e6803fbee3a463e060, type: 3}
+    - {fileID: 21300000, guid: 3922eff1d3144386804c695e09c55c3d, type: 3}
+    - {fileID: 21300000, guid: e5181775ee954fd3b682f62926402884, type: 3}
+    - {fileID: 21300000, guid: 02c04308d3ed45a09a42955667de4e8b, type: 3}
+    - {fileID: 21300000, guid: 9f4c5ee0e7ac49acb35cacf26cbdc2a0, type: 3}
+    - {fileID: 21300000, guid: 217d3afc8bf448a398bc7b8512a46d61, type: 3}
+    - {fileID: 21300000, guid: 6b29500bbb0b43d49b3fd080818e3c32, type: 3}
+    - {fileID: 21300000, guid: 9c0292db20934a6fb22acc9a80d68128, type: 3}
+    - {fileID: 21300000, guid: 2bbccf8bd8bf43a383625791bf48f6e9, type: 3}
+    - {fileID: 21300000, guid: b0a04d8bd4bd470ab73a71274ed7e767, type: 3}
+    - {fileID: 21300000, guid: 6e2cf99f1f4b4f6bb9b737a8bd284e5d, type: 3}
+    - {fileID: 21300000, guid: 84edd2380a6a4a5bbf3b0f2b2ff60d14, type: 3}
+    - {fileID: 21300000, guid: b2fd2c4ddef54cbe9de7167624659f31, type: 3}
+    - {fileID: 21300000, guid: 70f002b070fa40da85b3ee7cdcbd78e2, type: 3}
+    - {fileID: 21300000, guid: b7a01ec2c3c74e589624424b9932c779, type: 3}
+    - {fileID: 21300000, guid: 907c842538c8452abe23fb5fb3ff264e, type: 3}
+    - {fileID: 21300000, guid: 9be8309d4acb43e491c9b2931c4841c2, type: 3}
+    - {fileID: 21300000, guid: e4f1a219a46b4718baa3b4dcce946d8c, type: 3}
+    - {fileID: 21300000, guid: 6025a339e6964c31bf4396e0f1507128, type: 3}
+    - {fileID: 21300000, guid: f2d7a158c10e4115833090d6430f9613, type: 3}
+    - {fileID: 21300000, guid: b4ae7ee2613f46628c91fa396f78eca0, type: 3}
+    - {fileID: 21300000, guid: 158d71893da349f4b77d8c6b9985c3ff, type: 3}
+    - {fileID: 21300000, guid: a4f03e253b314da58a0a8df7e0f4f8c5, type: 3}
+    - {fileID: 21300000, guid: 55c58377286b4b8db9ced828abd2ed28, type: 3}
+    - {fileID: 21300000, guid: b10044d5d10a4e06977771c13d9bbcb1, type: 3}
+    - {fileID: 21300000, guid: 4b180b2fca454717bc637817130d0fe8, type: 3}
+    - {fileID: 21300000, guid: 5010fb2c89a44087ba118724beb01864, type: 3}
+    - {fileID: 21300000, guid: 9e568646f8304724864743b33b7737d3, type: 3}
+    - {fileID: 21300000, guid: ac631ffcb05b4b57855c9caeac519b3e, type: 3}
+    - {fileID: 21300000, guid: 0d18abb0bbe74a749dcabf2722c1dda9, type: 3}
+    - {fileID: 21300000, guid: 1d0b83d96d2d4effac4fc013f176538b, type: 3}
+    - {fileID: 21300000, guid: 488126327f454d9d92b6a5bae15b23ac, type: 3}
+    - {fileID: 21300000, guid: 19b290f16bad4340b998794104b75937, type: 3}
+    - {fileID: 21300000, guid: f956a23046f841fbb53af474f417e90b, type: 3}
+    - {fileID: 21300000, guid: cf54a7699adf49a6ba0e30e04d861032, type: 3}
+    - {fileID: 21300000, guid: 0edd9a4a19344693b1b6a6282589f4b0, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "BoLanToa"
+  m_IsVariant: 0

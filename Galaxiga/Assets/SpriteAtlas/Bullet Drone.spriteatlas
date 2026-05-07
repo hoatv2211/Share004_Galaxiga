@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Bullet Drone"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 45ba11a1e2154d62895c9266ead0e8bb, type: 3}
+    - {fileID: 21300000, guid: 1f238f414a33483ab5dbd71818e2f274, type: 3}
+    - {fileID: 21300000, guid: 4b4295c7e9784cb3b2a1d41f80c2396e, type: 3}
+    - {fileID: 21300000, guid: 79ff1fb853c74f879170d1fc741ec7d5, type: 3}
+    - {fileID: 21300000, guid: 29713cc2f7df470fbd1414e480a8f93d, type: 3}
+    - {fileID: 21300000, guid: 315be85af6bb4c8fba706e956805fe09, type: 3}
+    - {fileID: 21300000, guid: 886a655e6e6b45eead4f329d47fdf56f, type: 3}
+    - {fileID: 21300000, guid: 127d1348d53c4cd9a3e8ac482e518da5, type: 3}
+    - {fileID: 21300000, guid: e0f6208ffda94e069505a9fa3c9fdc6b, type: 3}
+    - {fileID: 21300000, guid: 375e5ada9ca4492f8d9a687a5acebd5f, type: 3}
+    - {fileID: 21300000, guid: 9cc769b38c72492594e63314838a7cea, type: 3}
+    - {fileID: 21300000, guid: b888f2dc57684c55828a80aff3c0b196, type: 3}
+    - {fileID: 21300000, guid: 35792f12e15f46338644bba99aac1974, type: 3}
+    - {fileID: 21300000, guid: e53fcc9c24834f248e04c20b047f9d34, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Bullet Drone"
+  m_IsVariant: 0

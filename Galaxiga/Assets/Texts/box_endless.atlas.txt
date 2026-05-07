@@ -1,0 +1,55 @@
+
+box_endless.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ac
+  rotate: true
+  xy: 435, 57
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+box_endless/box1_box
+  rotate: false
+  xy: 321, 154
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+box_endless/box1_open
+  rotate: false
+  xy: 183, 116
+  size: 136, 132
+  orig: 136, 132
+  offset: 0, 0
+  index: -1
+box_endless/box1_top
+  rotate: false
+  xy: 321, 92
+  size: 112, 60
+  orig: 112, 60
+  offset: 0, 0
+  index: -1
+box_endless/box2_box
+  rotate: false
+  xy: 2, 2
+  size: 146, 98
+  orig: 146, 98
+  offset: 0, 0
+  index: -1
+box_endless/box2_open
+  rotate: false
+  xy: 2, 102
+  size: 179, 146
+  orig: 179, 146
+  offset: 0, 0
+  index: -1
+box_endless/box2_top
+  rotate: true
+  xy: 436, 116
+  size: 132, 65
+  orig: 132, 65
+  offset: 0, 0
+  index: -1

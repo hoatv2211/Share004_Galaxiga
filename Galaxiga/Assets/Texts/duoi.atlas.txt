@@ -1,0 +1,62 @@
+
+duoi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_boss3/bungduoi1
+  rotate: false
+  xy: 2, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+anim_boss3/bungduoi2
+  rotate: false
+  xy: 83, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+anim_boss3/bungduoi3
+  rotate: false
+  xy: 164, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+anim_boss3/bungduoi4
+  rotate: false
+  xy: 245, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+anim_boss3/bungduoi5
+  rotate: false
+  xy: 326, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+anim_boss3/bungduoi6
+  rotate: false
+  xy: 407, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+anim_boss3/bungduoi7
+  rotate: false
+  xy: 488, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+anim_boss3/bungduoi8
+  rotate: false
+  xy: 569, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1

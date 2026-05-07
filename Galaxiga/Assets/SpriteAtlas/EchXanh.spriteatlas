@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "EchXanh"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: cddf5ab3fbfb465f99dd2ab472c005d8, type: 3}
+    - {fileID: 21300000, guid: 63a0bdfaf748475a87f7c12cf44e35c5, type: 3}
+    - {fileID: 21300000, guid: 334b115dfb9f4ad48f816a8515b32971, type: 3}
+    - {fileID: 21300000, guid: 72a3cb1ea4424c74a124f267af2c8d2d, type: 3}
+    - {fileID: 21300000, guid: 7046d7aceb4f4e6bbcd30401d75fce18, type: 3}
+    - {fileID: 21300000, guid: 138467f0dcdc47e087a692d64757341b, type: 3}
+    - {fileID: 21300000, guid: 4cffcbf845944af684be825b30aac796, type: 3}
+    - {fileID: 21300000, guid: fa3e82b55a2449418209f7260498bda8, type: 3}
+    - {fileID: 21300000, guid: da452755172e4225879d104e62f2d06c, type: 3}
+    - {fileID: 21300000, guid: f0ebffdd11434c669ede4d195b29b83f, type: 3}
+    - {fileID: 21300000, guid: 85af5b5f82b04aa38cea03d5b258002d, type: 3}
+    - {fileID: 21300000, guid: 35838f165b5544a5a8357c18c7a33486, type: 3}
+    - {fileID: 21300000, guid: 0843b1f5ec864d76b3adaae894f364f3, type: 3}
+    - {fileID: 21300000, guid: f67bea28a97840baaeee3d9a6db31be9, type: 3}
+    - {fileID: 21300000, guid: 10c114a24f4b4b0eb834d6de1abc57be, type: 3}
+    - {fileID: 21300000, guid: f1bc274c5bc44e95bc7d13a68605f90e, type: 3}
+    - {fileID: 21300000, guid: 11081755bf7c4b4b9ce99d62f5aaf55c, type: 3}
+    - {fileID: 21300000, guid: af76920681614f4596a73f007d0b9c89, type: 3}
+    - {fileID: 21300000, guid: 6638c6f976524e519143290eb7afb67f, type: 3}
+    - {fileID: 21300000, guid: 38b811664f044df7bfe5c9154d01828d, type: 3}
+    - {fileID: 21300000, guid: b16ffe9a24eb437e93899edc16599ec2, type: 3}
+    - {fileID: 21300000, guid: a9e69c7703594f94bd1ee6b8d9ec0f5a, type: 3}
+    - {fileID: 21300000, guid: cab5394c098a45d4a6b0727b205f5f77, type: 3}
+    - {fileID: 21300000, guid: a61646593ff5450eb3cf361ce62f7f8c, type: 3}
+    - {fileID: 21300000, guid: ec66053682104a96ac1fdbb0397dbdfc, type: 3}
+    - {fileID: 21300000, guid: 9e5dbd11372443c1933b4ef077bb3746, type: 3}
+    - {fileID: 21300000, guid: 63772e30e07c47d1ba8231c1bfa64db9, type: 3}
+    - {fileID: 21300000, guid: a091ecc57d15479cbef7e69a66ac5444, type: 3}
+    - {fileID: 21300000, guid: 9fcd2a881c1b4382874fffca5b0430d6, type: 3}
+    - {fileID: 21300000, guid: 1304604f00ae4313aaf12fe29f9c02c3, type: 3}
+    - {fileID: 21300000, guid: 6d967798478b4c7bb90ecb97a019fcf2, type: 3}
+    - {fileID: 21300000, guid: 2c7e791fca9a4f8591009b59b6ce6c12, type: 3}
+    - {fileID: 21300000, guid: 179a80e7c830420688b14496f02f85b5, type: 3}
+    - {fileID: 21300000, guid: 5a1ce3b4fe52400f80fd4253a86fd891, type: 3}
+    - {fileID: 21300000, guid: c6bf9593954a4a3db561d630025e83da, type: 3}
+    - {fileID: 21300000, guid: 271d5012b4ca49eb94d11cf38f9640df, type: 3}
+    - {fileID: 21300000, guid: fb301a7d734a4f0cace0227e572b2d9a, type: 3}
+    - {fileID: 21300000, guid: ace6394362f04aaf80b4d2f24217b4db, type: 3}
+    - {fileID: 21300000, guid: 8c2025c7114d4ef3afde05afb3d1a4aa, type: 3}
+    - {fileID: 21300000, guid: 79110eb6c9184647954ba3d0cdc4f5a5, type: 3}
+    - {fileID: 21300000, guid: 77a6363f24f14e688f4795e2574c7e45, type: 3}
+    - {fileID: 21300000, guid: 86569012dd974d32839f8563a4a355a1, type: 3}
+    - {fileID: 21300000, guid: 4d549c508a394f0198dd2d1d4d1aacf6, type: 3}
+    - {fileID: 21300000, guid: 111d79faf1fa40709b40558da2974c17, type: 3}
+    - {fileID: 21300000, guid: f822612fe8cd4a43b783ed487ab2b24f, type: 3}
+    - {fileID: 21300000, guid: 53938792ecf24853bbddb23e97db224b, type: 3}
+    - {fileID: 21300000, guid: 9abc82f72fc943b68e635b6a35a46b24, type: 3}
+    - {fileID: 21300000, guid: 1a95d0bf4e314089b6b95b2deff9dd54, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "EchXanh"
+  m_IsVariant: 0

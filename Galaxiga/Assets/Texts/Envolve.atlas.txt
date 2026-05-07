@@ -1,0 +1,139 @@
+
+Envolve.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back1
+  rotate: false
+  xy: 2, 793
+  size: 351, 207
+  orig: 351, 207
+  offset: 0, 0
+  index: -1
+back2
+  rotate: false
+  xy: 2, 584
+  size: 351, 207
+  orig: 351, 207
+  offset: 0, 0
+  index: -1
+back3
+  rotate: false
+  xy: 355, 793
+  size: 351, 207
+  orig: 351, 207
+  offset: 0, 0
+  index: -1
+back4
+  rotate: false
+  xy: 2, 375
+  size: 351, 207
+  orig: 351, 207
+  offset: 0, 0
+  index: -1
+back5
+  rotate: false
+  xy: 355, 584
+  size: 351, 207
+  orig: 351, 207
+  offset: 0, 0
+  index: -1
+back6
+  rotate: false
+  xy: 708, 793
+  size: 351, 207
+  orig: 351, 207
+  offset: 0, 0
+  index: -1
+color
+  rotate: false
+  xy: 238, 343
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+envolve_icon1
+  rotate: false
+  xy: 2, 133
+  size: 234, 240
+  orig: 234, 240
+  offset: 0, 0
+  index: -1
+envolve_icon2
+  rotate: true
+  xy: 355, 348
+  size: 234, 240
+  orig: 234, 240
+  offset: 0, 0
+  index: -1
+envolve_icon3
+  rotate: true
+  xy: 708, 557
+  size: 234, 240
+  orig: 234, 240
+  offset: 0, 0
+  index: -1
+envolve_icon4
+  rotate: true
+  xy: 1061, 766
+  size: 234, 240
+  orig: 234, 240
+  offset: 0, 0
+  index: -1
+envolve_icon5
+  rotate: true
+  xy: 1303, 766
+  size: 234, 240
+  orig: 234, 240
+  offset: 0, 0
+  index: -1
+envolve_icon6
+  rotate: true
+  xy: 1545, 766
+  size: 234, 240
+  orig: 234, 240
+  offset: 0, 0
+  index: -1
+envolve_side1
+  rotate: false
+  xy: 2, 2
+  size: 276, 129
+  orig: 276, 129
+  offset: 0, 0
+  index: -1
+envolve_side2
+  rotate: true
+  xy: 1787, 724
+  size: 276, 129
+  orig: 276, 129
+  offset: 0, 0
+  index: -1
+envolve_side3
+  rotate: false
+  xy: 597, 426
+  size: 276, 129
+  orig: 276, 129
+  offset: 0, 0
+  index: -1
+envolve_side4
+  rotate: false
+  xy: 597, 295
+  size: 276, 129
+  orig: 276, 129
+  offset: 0, 0
+  index: -1
+envolve_side5
+  rotate: true
+  xy: 875, 279
+  size: 276, 129
+  orig: 276, 129
+  offset: 0, 0
+  index: -1
+envolve_side6
+  rotate: false
+  xy: 950, 635
+  size: 276, 129
+  orig: 276, 129
+  offset: 0, 0
+  index: -1

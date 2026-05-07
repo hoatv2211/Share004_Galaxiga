@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Laser"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 95f50b213faa4475b306e5752019ac60, type: 3}
+    - {fileID: 21300000, guid: 903c74db23d9439d887e59cde60d3fdf, type: 3}
+    - {fileID: 21300000, guid: 3a72a4a99f1b46f3b5785d1601080dd0, type: 3}
+    - {fileID: 21300000, guid: 980e21efa5184aa5b60ef14bb1a7a567, type: 3}
+    - {fileID: 21300000, guid: c706c426b7d54421944debf4f72fdfc3, type: 3}
+    - {fileID: 21300000, guid: 4541dea468a741d297157bc4fdfffce2, type: 3}
+    - {fileID: 21300000, guid: b62016e8e2d2412498c330ec6d3afd50, type: 3}
+    - {fileID: 21300000, guid: 3cc97a39dd99407cb304548fbca46556, type: 3}
+    - {fileID: 21300000, guid: 8fcd2699101440f18e7f164aad1d6de7, type: 3}
+    - {fileID: 21300000, guid: bb97ba6ec1734fa289b859a36d2ab9b7, type: 3}
+    - {fileID: 21300000, guid: 80416b04da5f41d1a692cb10f2e2367d, type: 3}
+    - {fileID: 21300000, guid: 74a4ce8f8cbe4281929a4ca11b1582b3, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Laser"
+  m_IsVariant: 0

@@ -1,0 +1,230 @@
+
+tayphai.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun/Boss3_Gun_Atk_down_0
+  rotate: false
+  xy: 266, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_down_1
+  rotate: false
+  xy: 306, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_down_2
+  rotate: false
+  xy: 346, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_down_3
+  rotate: false
+  xy: 386, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_down_4
+  rotate: false
+  xy: 426, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_down_5
+  rotate: false
+  xy: 466, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_down_6
+  rotate: false
+  xy: 506, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_up_0
+  rotate: false
+  xy: 546, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Idle_0
+  rotate: false
+  xy: 546, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_up_1
+  rotate: false
+  xy: 586, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_up_2
+  rotate: false
+  xy: 626, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_up_3
+  rotate: false
+  xy: 666, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_up_4
+  rotate: false
+  xy: 706, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_up_5
+  rotate: false
+  xy: 746, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Atk_up_6
+  rotate: false
+  xy: 786, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Hold_0
+  rotate: false
+  xy: 826, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Hold_1
+  rotate: false
+  xy: 866, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Idle_1
+  rotate: false
+  xy: 906, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Idle_2
+  rotate: false
+  xy: 946, 42
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Idle_3
+  rotate: true
+  xy: 266, 2
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Idle_4
+  rotate: true
+  xy: 346, 2
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Idle_5
+  rotate: true
+  xy: 426, 2
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Idle_6
+  rotate: true
+  xy: 506, 2
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Gun/Boss3_Gun_Idle_7
+  rotate: true
+  xy: 586, 2
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+anim_boss3/canhtay1
+  rotate: false
+  xy: 2, 65
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/canhtay2
+  rotate: false
+  xy: 2, 8
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/canhtay3
+  rotate: false
+  xy: 68, 65
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/canhtay4
+  rotate: false
+  xy: 68, 8
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/canhtay5
+  rotate: false
+  xy: 134, 65
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/canhtay6
+  rotate: false
+  xy: 134, 8
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/canhtay7
+  rotate: false
+  xy: 200, 65
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/canhtay8
+  rotate: false
+  xy: 200, 8
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Boss HLW"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 9bd582a090924f039e070a201936c86a, type: 3}
+    - {fileID: 21300000, guid: 520f4173f2ee44fc98c50b45bc879ad9, type: 3}
+    - {fileID: 21300000, guid: 3fd89933ddcd44a7be8b1abc73686e2c, type: 3}
+    - {fileID: 21300000, guid: 27da3e8ca22f4c828802bae67aa7aa77, type: 3}
+    - {fileID: 21300000, guid: 717fc138ecb94f228913f364fe72eecc, type: 3}
+    - {fileID: 21300000, guid: 9adfe86125204ac78f91ae741d14c8ee, type: 3}
+    - {fileID: 21300000, guid: 72c6907b5bcc459c9490add464399e38, type: 3}
+    - {fileID: 21300000, guid: e8ef703b795941c9b8f1bfa464e5c664, type: 3}
+    - {fileID: 21300000, guid: 57d16902e8a940058193dae006896a99, type: 3}
+    - {fileID: 21300000, guid: 6b12fc2e1cc24cb2890fb45c69eb2d52, type: 3}
+    - {fileID: 21300000, guid: 4641b9d807924945a6149415689b4fa8, type: 3}
+    - {fileID: 21300000, guid: 6059ca114d794c8ea2f4397a030b855f, type: 3}
+    - {fileID: 21300000, guid: ca97ef0715e0490bb781eee0daa21931, type: 3}
+    - {fileID: 21300000, guid: 5f9d50f78cf14d2bbeb6af7716f63648, type: 3}
+    - {fileID: 21300000, guid: 6ce8b6135ca9439982a15989b3ecba00, type: 3}
+    - {fileID: 21300000, guid: 095151d3d0df490abf2cc43577306ffd, type: 3}
+    - {fileID: 21300000, guid: 1d8391cd1a80452598c8532f82630e6b, type: 3}
+    - {fileID: 21300000, guid: 9d9337248cd642118c8b6a7f656e5686, type: 3}
+    - {fileID: 21300000, guid: f25e1a36eff14b9985444da9e7357ef3, type: 3}
+    - {fileID: 21300000, guid: 3b201dcbeac44f1b9bfb8b1f43dc82bd, type: 3}
+    - {fileID: 21300000, guid: 48f316f080394344b4545e55f57ad29e, type: 3}
+    - {fileID: 21300000, guid: b47979f9f0d244d6a1120003588c868c, type: 3}
+    - {fileID: 21300000, guid: 05546676cda5444391e2d4ec31aadfbe, type: 3}
+    - {fileID: 21300000, guid: c8cf51be46b347259d96b7c08da64cfd, type: 3}
+    - {fileID: 21300000, guid: b6e037d116ef48258762d2befaba39d5, type: 3}
+    - {fileID: 21300000, guid: 74a55d00b8ea4f5c9ed0478dc6ccc30b, type: 3}
+    - {fileID: 21300000, guid: a23268a42b2c471dbb77162b6808e052, type: 3}
+    - {fileID: 21300000, guid: 241fa5fc82594768a5d3a7f537dcd8ec, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Boss HLW"
+  m_IsVariant: 0

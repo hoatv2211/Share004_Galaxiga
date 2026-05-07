@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Boss Xmas"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 8c38235e7b48481787e4f6d40fe9d71d, type: 3}
+    - {fileID: 21300000, guid: 9c7a953f1a334e66b671310621187374, type: 3}
+    - {fileID: 21300000, guid: 6159c3603f6248b4a618fd5508dd2ec7, type: 3}
+    - {fileID: 21300000, guid: a9ef3e38db3748f8b0c59c291358218f, type: 3}
+    - {fileID: 21300000, guid: b7b0a349461d48bead465a5a2ffbacea, type: 3}
+    - {fileID: 21300000, guid: 376baa915537461a8d9dc5283f85ef8c, type: 3}
+    - {fileID: 21300000, guid: cf3d4ef423d24983afd8d1a01c90f824, type: 3}
+    - {fileID: 21300000, guid: 8be669c5cf9c42479584971dfeb52f39, type: 3}
+    - {fileID: 21300000, guid: 9bb3ab323c3240a6bd3281e8d76ad77e, type: 3}
+    - {fileID: 21300000, guid: 245fb8a9486b4a779f62151b4f2dc573, type: 3}
+    - {fileID: 21300000, guid: c0e244c1829348e48bcd643e20a114bf, type: 3}
+    - {fileID: 21300000, guid: 7337f47f79c14a05b8b2ef1ca1d4cedd, type: 3}
+    - {fileID: 21300000, guid: 42922033a5364e8c8d8bf18486c074dd, type: 3}
+    - {fileID: 21300000, guid: aefc957d488f4d43b172734091794da1, type: 3}
+    - {fileID: 21300000, guid: 90d34493d8b14a3caeb61f6e1b9d2e8c, type: 3}
+    - {fileID: 21300000, guid: 49c5f62d97b6420fbd9e989571b7b2f7, type: 3}
+    - {fileID: 21300000, guid: 0ab6c718eb6544198188333026ae20b7, type: 3}
+    - {fileID: 21300000, guid: 627c42aff5a7400f8a36864750ab81ed, type: 3}
+    - {fileID: 21300000, guid: 41903334b54a4a698619a9c552aed9e5, type: 3}
+    - {fileID: 21300000, guid: b58650ee14034a4a9f6f6c7ce602010e, type: 3}
+    - {fileID: 21300000, guid: c3df24621dc848209460b5221e31a33a, type: 3}
+    - {fileID: 21300000, guid: 580e28ad41dd450c9bffc7e32be759bb, type: 3}
+    - {fileID: 21300000, guid: 3105ef84cc044eb292b87a3e54877ae2, type: 3}
+    - {fileID: 21300000, guid: e56725c9275d4ec790f3e5e875ba89e5, type: 3}
+    - {fileID: 21300000, guid: 99259ab61af8437197239fccd9fcb752, type: 3}
+    - {fileID: 21300000, guid: c07f21eacfb047e0a82309a99127d7d9, type: 3}
+    - {fileID: 21300000, guid: e38f8c602763415eb88dc8cbf1dc79f6, type: 3}
+    - {fileID: 21300000, guid: 1e901951c42545c68e748a9fc1343dce, type: 3}
+    - {fileID: 21300000, guid: 3c17e0ed0d1c4e3bb666fd7f71fc3e57, type: 3}
+    - {fileID: 21300000, guid: 34a9fb7c3b5140c78690a829562b4528, type: 3}
+    - {fileID: 21300000, guid: 0166b9aabe494bd5b3825a329e566dfb, type: 3}
+    - {fileID: 21300000, guid: daceebd10f0648b58d3b95a0fb9e5835, type: 3}
+    - {fileID: 21300000, guid: 61126b5189ef4007b590e9b623e1dec2, type: 3}
+    - {fileID: 21300000, guid: 702d67b2774f4467a92aef71cf7895c9, type: 3}
+    - {fileID: 21300000, guid: 79cdda2bb48b4f24aab68734eeb76a9c, type: 3}
+    - {fileID: 21300000, guid: 9d517c2bd68349e5a67664b3f50839ed, type: 3}
+    - {fileID: 21300000, guid: 03a07ba7fe7c467e8a278d32ba8d3bc1, type: 3}
+    - {fileID: 21300000, guid: af72ef1f203640669e8dc475619a5442, type: 3}
+    - {fileID: 21300000, guid: 8e2a12acbafd4ca1967879e28e21a4bf, type: 3}
+    - {fileID: 21300000, guid: 5c6802d910a44c1d90340e4a86121181, type: 3}
+    - {fileID: 21300000, guid: 6f2f50b0209b42c09120e4fefb7bc887, type: 3}
+    - {fileID: 21300000, guid: 219ffa8912ae426ab398c1232d14bf85, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Boss Xmas"
+  m_IsVariant: 0

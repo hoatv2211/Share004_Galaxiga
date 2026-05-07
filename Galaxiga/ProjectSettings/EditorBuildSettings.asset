@@ -1,0 +1,282 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/_Scenes/Intro.unity
+    guid: f21f009b5c7ed53488f3caca4b4b7498
+  - enabled: 1
+    path: Assets/Game/_Scenes/LoadingFirstGame.unity
+    guid: 1ce73045f81a90f4fb98df0976121a92
+  - enabled: 1
+    path: Assets/Game/_Scenes/Home.unity
+    guid: 80e262d9d887bda468fcb74b0bb637d3
+  - enabled: 1
+    path: Assets/Game/_Scenes/Loading.unity
+    guid: e7ca32d069997c4489002911c6800509
+  - enabled: 1
+    path: Assets/Game/_Scenes/SelectLevel.unity
+    guid: f48cca640cca9c74da15b35b896bf98f
+  - enabled: 1
+    path: Assets/Game/_Scenes/LevelTry.unity
+    guid: 7157d06b35715de43ad96d8df8dcfae6
+  - enabled: 1
+    path: Assets/Game/Prefab/Scenes/LevelEndless.unity
+    guid: 12731306feba10848981f4c7b2f9ca86
+  - enabled: 1
+    path: Assets/Game/Prefab/Level_Fix_Feeling_1-10/Level1.unity
+    guid: 6064f3315a595e7498588aeecc283623
+  - enabled: 1
+    path: Assets/Game/Prefab/Level_Fix_Feeling_1-10/Level2.unity
+    guid: f7612ded2802eb0489de3a1157a72b2b
+  - enabled: 1
+    path: Assets/Game/Prefab/Level_Fix_Feeling_1-10/Level3.unity
+    guid: b79ccbad99e2d5f4581a60b0fc1c3bd6
+  - enabled: 1
+    path: Assets/Game/Prefab/Level_Fix_Feeling_1-10/Level4.unity
+    guid: 8f0de974a725bdb4794ee472166e1639
+  - enabled: 1
+    path: Assets/Game/Prefab/Level_Fix_Feeling_1-10/Level5.unity
+    guid: e188c624fa229d44abf969f91a7ebeb2
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level6.unity
+    guid: 6433c0bb72bd98d47a9fc4b1ad923597
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level7.unity
+    guid: 3db9d1766bb785449bff366bd6eb78df
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level8.unity
+    guid: 9052618a33147fa4aab27c838853c879
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level9.unity
+    guid: 9b2d1a75393320347b5431a4373ddeec
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/Level10.unity
+    guid: 30537622d09a8d242bbd42917fea150a
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level11.unity
+    guid: 2fe5eacac2850ec48b88e74420ac98dc
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level12.unity
+    guid: 6318f4ecd7b884c418133bec63f4fe65
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level13.unity
+    guid: c889e3bf1aef1714c963cfcff70b7355
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level14.unity
+    guid: 3caec857008323b4e8b25207b16823ee
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/Level15.unity
+    guid: fbed18a44f551f541a21e50431a5241b
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level16.unity
+    guid: 394a0f785d77cd048a09cc33378cced7
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level17.unity
+    guid: ddd319ed0390629429c6a844229622ed
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level18.unity
+    guid: 4d948a2e408ad5f458276ab774bcfb9d
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level19.unity
+    guid: 9996880216d410e48ad6a8597d089818
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/Level20.unity
+    guid: 6e61290a01b7bff4cb9e4b65d3937c37
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level21.unity
+    guid: 42ec0beac6dc80e4aac2a1389ad9bc18
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level22.unity
+    guid: df06020bab224b748ac58e1ece49623e
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level23.unity
+    guid: 0e22056e966be5a408c495650186785b
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level24.unity
+    guid: 778a2be0a8b049c4797c941ba5126f99
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level25.unity
+    guid: acfe841d3f490b44ca77749de5a2c070
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level26.unity
+    guid: aae3cbf9a6db25942b84a6b50c0dd48c
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level27.unity
+    guid: d8a6b40b195e6c845af00e740498682e
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level28.unity
+    guid: 8c64ad78bd6e1184ea06f72dfd0ff563
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level29.unity
+    guid: 7863c94af1019a940bd6d202a8ac89d3
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level30.unity
+    guid: 5d33ddba81caaa947b86a29b4049a7da
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level31.unity
+    guid: cf1bc3c33134abd439bedd48ded11eed
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level32.unity
+    guid: efb7d693736e2e54db67c7f64d110bb5
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level33.unity
+    guid: 2fb71454d6f6cda4c918eaf3eaa141b7
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level34.unity
+    guid: 0301e93ed37c4b642a1f893909a7d2f8
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level35.unity
+    guid: 711eafe241e0bf846971f17c7758b6f7
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level36.unity
+    guid: d57b837eb98de0449a5311e2033454ed
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level37.unity
+    guid: 38ec9c392a26d36459e1d1ff3336b478
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level38.unity
+    guid: 515ec6de9a2ae974fa2e52e7d70e6d6a
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level39.unity
+    guid: 0c6edbe6599c0414c8efe320433b02b9
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level40.unity
+    guid: 369b781f77acac54aa9dfe13d71ac59c
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level41.unity
+    guid: 0c9bc5c14d82ee342ac6d024bbc052f5
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level42.unity
+    guid: 3d786a95be1405742862b2edbfef47ea
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level43.unity
+    guid: cdc1c421faf077d458b7a8175ccaccaf
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level44.unity
+    guid: be80217a7fb8866498da23f477ca2e78
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level45.unity
+    guid: 990f781b4f0c5f54eb2240400b357aed
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level46.unity
+    guid: 15e0356df78972d42a82b338a1d78a45
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level47.unity
+    guid: f7e29a5ac6f6d3e4dacd97c5d3acabfd
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level48.unity
+    guid: aa19d21e7dfbe7f4f95fc769f09a8ddd
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level49.unity
+    guid: f2e47e4cda882524d92c5c835f72c7a7
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level50.unity
+    guid: afa74c8ca357217459ad1eb8ac4366b3
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level51.unity
+    guid: 81d344100231b974a88939e64a99f6f7
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level52.unity
+    guid: d9014384a02263146904bf0c1e3ca392
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level53.unity
+    guid: 67754cfeaa768a04286e18a825f6b178
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level54.unity
+    guid: e943a42111f232746adec94530a0bb6c
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level55.unity
+    guid: 9c04d8c256ff73f4783fd8750c137f3d
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level56.unity
+    guid: 4e92867d224d14649ac3f6e5a3a2fa4d
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level57.unity
+    guid: da4e406eb9921394d8b177d09078946e
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level58.unity
+    guid: b16ad91bc3416684e8be3e481196cb61
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level59.unity
+    guid: b0bde2ce3f85c004da69bca45c215ec4
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level60.unity
+    guid: 1f8dc82be44a3be43b85748583a77727
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level61.unity
+    guid: b112bdd8dbea5d741ad30c5fe0918118
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level62.unity
+    guid: 756dfd21e50f8ff48aa97862cc9559ba
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level63.unity
+    guid: d78fcc4004d42144483448257ea338f4
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level64.unity
+    guid: b31d83933ca77ae419a3ed161507d4d4
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level65.unity
+    guid: c4b06ae1e66e7894b993cf7c4f41fa27
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level66.unity
+    guid: c1ca125e3f7e88944a2bd5c7af8cf73d
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level67.unity
+    guid: 60bebaf1f601a4c49b7515dc6b20f868
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level68.unity
+    guid: b2d4c3cde7cc2f54bb7dd719b2bd3db5
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level69.unity
+    guid: cf23de6571c94384e9810bd15155d1b8
+  - enabled: 1
+    path: Assets/Game/LevelScene/Level70.unity
+    guid: b152476dc4e32d6458c67537e5354526
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss1.unity
+    guid: a9e9b17687691df429cf279d30d46ff8
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss2.unity
+    guid: 2d4603c351d7db643a728e3d9497321b
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss3.unity
+    guid: 89366f29c26b5034e928fecafbab7a50
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss4.unity
+    guid: 95ffeb72847a62a418ff0687dbaa1a5d
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss5.unity
+    guid: 153e5a37a806e7d42afd61a82ee8fca0
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss6.unity
+    guid: 47356ab50ac5df546956f947a179a63d
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss7.unity
+    guid: 21cffae7277fb3a45ade6a0e779e0bd6
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss8.unity
+    guid: 43c922438e7fd5c41a2a4eb1f8d7b333
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss9.unity
+    guid: b687515458f503e4889e7360df4e616d
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss10.unity
+    guid: 83dada0bb2445a74a97cf298efae0e69
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss11.unity
+    guid: 6d786bbb0e5fbdf42a15a96457b696dd
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss12.unity
+    guid: fb7a404a7ec3945458b01cbd24cbef4f
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss13.unity
+    guid: bfd45dffdd7f13e46b858f1a663576f6
+  - enabled: 1
+    path: Assets/Game/Scenes_BossMode/LevelBoss14.unity
+    guid: 657ca07fba9a7c540a0d01ee0d538cfb
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

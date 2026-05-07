@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "BossCrab"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 19726c21d7144051a0a4233a9afc14ec, type: 3}
+    - {fileID: 21300000, guid: 72baec17ebf94b3c87121fe51f2f305d, type: 3}
+    - {fileID: 21300000, guid: 195af1a1399a4f1595257caf270db3c9, type: 3}
+    - {fileID: 21300000, guid: b123c6f6872f4f93991fd20050b22d7e, type: 3}
+    - {fileID: 21300000, guid: ff78f6cf69354cada757f64ea0b802a5, type: 3}
+    - {fileID: 21300000, guid: deb97b9b9551415c9526c846ad927fba, type: 3}
+    - {fileID: 21300000, guid: 77d091592d744a75a72bd0194d2f1992, type: 3}
+    - {fileID: 21300000, guid: 53e5fd0256f44f22a1b4ddbb9a06670a, type: 3}
+    - {fileID: 21300000, guid: 950b7334f3014bbe836b6c8755d14e3f, type: 3}
+    - {fileID: 21300000, guid: 0c6b3e902629473eb567d2b0930c4619, type: 3}
+    - {fileID: 21300000, guid: 48deec698a8541d799b3d67463a16eb2, type: 3}
+    - {fileID: 21300000, guid: 34401fde71664c11ad6fe449da567979, type: 3}
+    - {fileID: 21300000, guid: 9a348a9d7d1540639726cbd92656cec1, type: 3}
+    - {fileID: 21300000, guid: 4533120d71434717b2e1355c8d62d8ba, type: 3}
+    - {fileID: 21300000, guid: 9f2f7106694d45838ad315e8cfee11b4, type: 3}
+    - {fileID: 21300000, guid: 4432b478ec634ee6b92d056694c02985, type: 3}
+    - {fileID: 21300000, guid: 83650ebad4ec495c8de0ec2db8fbf58b, type: 3}
+    - {fileID: 21300000, guid: 6fa9aebe315c45bf8378c312a1fbd29d, type: 3}
+    - {fileID: 21300000, guid: 80ab58499c7b43c4aa92de84fe1a1e66, type: 3}
+    - {fileID: 21300000, guid: 7d7f2e30f8164c568b37231a2c2fed82, type: 3}
+    - {fileID: 21300000, guid: 1e8af49002e54b70af3cfb462f995933, type: 3}
+    - {fileID: 21300000, guid: 9c5ed297b5154830bb80fcb051eb9d9a, type: 3}
+    - {fileID: 21300000, guid: 9afa7bdb93d44e37823fd28e9de9e9ab, type: 3}
+    - {fileID: 21300000, guid: ce1a9355580c4fdc90490ae3a59b28ea, type: 3}
+    - {fileID: 21300000, guid: 67064fc5836f43c2ae5ade5e89e66172, type: 3}
+    - {fileID: 21300000, guid: 03e793d39f074a9a85ad918102690834, type: 3}
+    - {fileID: 21300000, guid: 9dc9609a40a2479fb92f72bc53cf8965, type: 3}
+    - {fileID: 21300000, guid: 7d669c87253c45d3a718f6ac31de4bac, type: 3}
+    - {fileID: 21300000, guid: 2a31824ff9034914b2118948a11e6d01, type: 3}
+    - {fileID: 21300000, guid: 5fee0d00b33b4f04b0070037fba26584, type: 3}
+    - {fileID: 21300000, guid: d8a4a0fdd808446dae93a974f31e1ac8, type: 3}
+    - {fileID: 21300000, guid: e51f87be09c544dd8b9e30a6427b74ed, type: 3}
+    - {fileID: 21300000, guid: b3deb547755847c49dfc2bd768c0ec33, type: 3}
+    - {fileID: 21300000, guid: 1538fedded074d979ccf8e2d3ecd8ffe, type: 3}
+    - {fileID: 21300000, guid: 7ffc89f0f134496e9ab9bffcdc743ab4, type: 3}
+    - {fileID: 21300000, guid: 9cffb2664707437daef0db201374458e, type: 3}
+    - {fileID: 21300000, guid: 814e815436f8475aa489d59c3dcabf6a, type: 3}
+    - {fileID: 21300000, guid: 9214ecab6d74412f91106fe8699a1afe, type: 3}
+    - {fileID: 21300000, guid: 5fd1ac38ac08400c8cb6639039f650f8, type: 3}
+    - {fileID: 21300000, guid: c53997f4af2d42718815f408e5b95df4, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "BossCrab"
+  m_IsVariant: 0

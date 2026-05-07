@@ -1,0 +1,104 @@
+
+Starter_Pack_Girl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GUN
+  rotate: false
+  xy: 2, 2
+  size: 257, 256
+  orig: 257, 256
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 792, 832
+  size: 228, 186
+  orig: 228, 186
+  offset: 0, 0
+  index: -1
+Layer 56
+  rotate: true
+  xy: 410, 710
+  size: 308, 380
+  orig: 308, 380
+  offset: 0, 0
+  index: -1
+Layer 58
+  rotate: false
+  xy: 795, 597
+  size: 58, 119
+  orig: 58, 119
+  offset: 0, 0
+  index: -1
+Layer 59
+  rotate: true
+  xy: 795, 523
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+Layer 60
+  rotate: false
+  xy: 2, 649
+  size: 406, 369
+  orig: 406, 369
+  offset: 0, 0
+  index: -1
+Layer 64
+  rotate: false
+  xy: 2, 260
+  size: 387, 387
+  orig: 387, 387
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 261, 26
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 792, 718
+  size: 95, 112
+  orig: 95, 112
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 889, 721
+  size: 89, 109
+  orig: 89, 109
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 345, 188
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 261, 116
+  size: 142, 82
+  orig: 142, 82
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 391, 573
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 410, 441
+  size: 383, 267
+  orig: 383, 267
+  offset: 0, 0
+  index: -1

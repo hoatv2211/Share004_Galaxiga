@@ -1,0 +1,118 @@
+
+mini1.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss9_sprite/m1_Idle_0
+  rotate: false
+  xy: 2, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m1_Idle_1
+  rotate: false
+  xy: 32, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m1_Idle_2
+  rotate: false
+  xy: 62, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m1_Idle_3
+  rotate: false
+  xy: 92, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m1_Idle_4
+  rotate: false
+  xy: 122, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m1_Idle_5
+  rotate: false
+  xy: 152, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m1_Idle_6
+  rotate: false
+  xy: 182, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m1_Idle_7
+  rotate: false
+  xy: 422, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m2_Idle_0
+  rotate: false
+  xy: 212, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m2_Idle_1
+  rotate: false
+  xy: 242, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m2_Idle_2
+  rotate: false
+  xy: 272, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m2_Idle_3
+  rotate: false
+  xy: 302, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m2_Idle_4
+  rotate: false
+  xy: 302, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m2_Idle_5
+  rotate: false
+  xy: 332, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m2_Idle_6
+  rotate: false
+  xy: 362, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Boss9_sprite/m2_Idle_7
+  rotate: false
+  xy: 392, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

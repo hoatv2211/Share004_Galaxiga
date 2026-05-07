@@ -1,0 +1,90 @@
+
+Aircraft1_Wings.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 24
+  rotate: true
+  xy: 179, 70
+  size: 56, 105
+  orig: 56, 105
+  offset: 0, 0
+  index: -1
+Group 25
+  rotate: false
+  xy: 2, 19
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+Group 26
+  rotate: false
+  xy: 77, 50
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+Shape 74 copy
+  rotate: true
+  xy: 370, 19
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+Shape 84
+  rotate: false
+  xy: 179, 2
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+Shape 86
+  rotate: true
+  xy: 245, 9
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+Shape 87
+  rotate: true
+  xy: 129, 3
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Shape 88
+  rotate: true
+  xy: 389, 73
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+Shape 89
+  rotate: true
+  xy: 427, 19
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+Shape 90
+  rotate: true
+  xy: 301, 24
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+Shape 91
+  rotate: false
+  xy: 77, 4
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Shape 93
+  rotate: true
+  xy: 286, 74
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "VIP"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 6fb799edb51f457ca43f05fa065ed5ca, type: 3}
+    - {fileID: 21300000, guid: 7d7830a9fb524b6fa8c23b3139fb0741, type: 3}
+    - {fileID: 21300000, guid: deb36f7bae3d45969e64a32e2ca1a431, type: 3}
+    - {fileID: 21300000, guid: 5fcf878108e94042bb88348d46a8b896, type: 3}
+    - {fileID: 21300000, guid: 9fd0be4875b840358b2706caf0eb83e0, type: 3}
+    - {fileID: 21300000, guid: dd8914c9657e442fb80c4b3e36618dd7, type: 3}
+    - {fileID: 21300000, guid: 57466219a9204839a86af7b8156c50f6, type: 3}
+    - {fileID: 21300000, guid: b7e4e7ebac3d46eea136f2c36eccb71d, type: 3}
+    - {fileID: 21300000, guid: 7a31cd5ee5a449068972c0370bf7a4ee, type: 3}
+    - {fileID: 21300000, guid: a61adaf34f764276a03deb75b5f35021, type: 3}
+    - {fileID: 21300000, guid: ee64c8fae1564d1aad06d54c3c43a2e9, type: 3}
+    - {fileID: 21300000, guid: 252d15f5b78849ab9e6a8829ee5c406d, type: 3}
+    - {fileID: 21300000, guid: 42590204666c4000bd693913fe54d118, type: 3}
+    - {fileID: 21300000, guid: 65523b769e6b4a78898f28a3d514eba6, type: 3}
+    - {fileID: 21300000, guid: 6162732c66374db88c91791c3044208b, type: 3}
+    - {fileID: 21300000, guid: e2b37c53b2264964b649be032a92cbaa, type: 3}
+    - {fileID: 21300000, guid: d0fba62ecab74fffa2298499103141fd, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "VIP"
+  m_IsVariant: 0

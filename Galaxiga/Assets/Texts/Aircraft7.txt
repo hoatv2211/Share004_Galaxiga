@@ -1,0 +1,213 @@
+{
+"skeleton": { "hash": "YCMBTd9D9fZcqVGeYflV0Td95TU", "spine": "3.6.53", "width": 192, "height": 192, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "Aircraft7_E4/aircraft7_e4_idle_0", "bone": "bone", "attachment": "Aircraft7_E4/aircraft7_e4_idle_0" }
+],
+"skins": {
+	"default": {},
+	"E3": {
+		"Aircraft7_E4/aircraft7_e4_idle_0": {
+			"Aircraft7_E4/aircraft4_Twirling_right_0": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft4_Twirling_right_1": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft4_Twirling_right_2": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft4_Twirling_right_3": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft4_Twirling_right_4": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft7_e4_idle_0": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft7_e4_idle_1": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft7_e4_idle_2": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft7_e4_idle_3": { "width": 141, "height": 126 },
+			"Aircraft7_E4/aircraft7_e4_idle_4": { "width": 141, "height": 126 }
+		}
+	},
+	"E4": {
+		"Aircraft7_E4/aircraft7_e4_idle_0": {
+			"Aircraft7_E4/aircraft7_e4_idle_0": { "name": "Aircraft7_E3/Aircraft4_E3_Idle_0", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_1": { "name": "Aircraft7_E3/Aircraft4_E3_Idle_1", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_2": { "name": "Aircraft7_E3/Aircraft4_E3_Idle_2", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_3": { "name": "Aircraft7_E3/Aircraft4_E3_Idle_3", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_4": { "name": "Aircraft7_E3/Aircraft4_E3_Idle_4", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_0": { "name": "Aircraft7_E3/Aircraft4_E3_Twirling_right_0", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_1": { "name": "Aircraft7_E3/Aircraft4_E3_Twirling_right_1", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_2": { "name": "Aircraft7_E3/Aircraft4_E3_Twirling_right_2", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_3": { "name": "Aircraft7_E3/Aircraft4_E3_Twirling_right_3", "width": 192, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_4": { "name": "Aircraft7_E3/Aircraft4_E3_Twirling_right_4", "width": 192, "height": 192 }
+		}
+	},
+	"E5": {
+		"Aircraft7_E4/aircraft7_e4_idle_0": {
+			"Aircraft7_E4/aircraft4_Twirling_right_0": { "name": "Aircraft7_E5/Aircraft4_E4_Twirling_right_0", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_1": { "name": "Aircraft7_E5/Aircraft4_E4_Twirling_right_1", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_2": { "name": "Aircraft7_E5/Aircraft4_E4_Twirling_right_2", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_3": { "name": "Aircraft7_E5/Aircraft4_E4_Twirling_right_3", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_4": { "name": "Aircraft7_E5/Aircraft4_E4_Twirling_right_4", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_0": { "name": "Aircraft7_E5/aircraft7_e5_idle_0", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_1": { "name": "Aircraft7_E5/aircraft7_e5_idle_1", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_2": { "name": "Aircraft7_E5/aircraft7_e5_idle_2", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_3": { "name": "Aircraft7_E5/aircraft7_e5_idle_3", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_4": { "name": "Aircraft7_E5/aircraft7_e5_idle_4", "width": 189, "height": 192 }
+		}
+	},
+	"E6": {
+		"Aircraft7_E4/aircraft7_e4_idle_0": {
+			"Aircraft7_E4/aircraft4_Twirling_right_0": { "name": "Aircraft7_E6/Aircraft4_E5_Twirling_right_0", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_1": { "name": "Aircraft7_E6/Aircraft4_E5_Twirling_right_1", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_2": { "name": "Aircraft7_E6/Aircraft4_E5_Twirling_right_2", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_3": { "name": "Aircraft7_E6/Aircraft4_E5_Twirling_right_3", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft4_Twirling_right_4": { "name": "Aircraft7_E6/Aircraft4_E5_Twirling_right_4", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_0": { "name": "Aircraft7_E6/aircraft7_e6_idle_0", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_1": { "name": "Aircraft7_E6/aircraft7_e6_idle_1", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_2": { "name": "Aircraft7_E6/aircraft7_e6_idle_2", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_3": { "name": "Aircraft7_E6/aircraft7_e6_idle_3", "width": 189, "height": 192 },
+			"Aircraft7_E4/aircraft7_e4_idle_4": { "name": "Aircraft7_E6/aircraft7_e6_idle_4", "width": 189, "height": 192 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"Aircraft7_E4/aircraft7_e4_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft7_E4/aircraft7_e4_idle_0" },
+					{ "time": 0.1, "name": "Aircraft7_E4/aircraft7_e4_idle_1" },
+					{ "time": 0.2, "name": "Aircraft7_E4/aircraft7_e4_idle_2" },
+					{ "time": 0.3, "name": "Aircraft7_E4/aircraft7_e4_idle_3" },
+					{ "time": 0.4, "name": "Aircraft7_E4/aircraft7_e4_idle_4" },
+					{ "time": 0.5, "name": "Aircraft7_E4/aircraft7_e4_idle_0" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right0": {
+		"slots": {
+			"Aircraft7_E4/aircraft7_e4_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft7_E4/aircraft4_Twirling_right_0" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right1": {
+		"slots": {
+			"Aircraft7_E4/aircraft7_e4_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft7_E4/aircraft4_Twirling_right_1" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right2": {
+		"slots": {
+			"Aircraft7_E4/aircraft7_e4_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft7_E4/aircraft4_Twirling_right_2" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right3": {
+		"slots": {
+			"Aircraft7_E4/aircraft7_e4_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft7_E4/aircraft4_Twirling_right_3" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right4": {
+		"slots": {
+			"Aircraft7_E4/aircraft7_e4_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft7_E4/aircraft4_Twirling_right_4" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

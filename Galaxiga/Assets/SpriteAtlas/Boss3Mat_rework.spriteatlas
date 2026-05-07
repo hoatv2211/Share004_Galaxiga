@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Boss3Mat_rework"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: d98563f97ec948fbae629c609cec12e6, type: 3}
+    - {fileID: 21300000, guid: 174024e5d48443478929f9fe68808913, type: 3}
+    - {fileID: 21300000, guid: fb35945cdf9e458ebbb5c62445c8c887, type: 3}
+    - {fileID: 21300000, guid: 517805425d5749629e91c7816d90459d, type: 3}
+    - {fileID: 21300000, guid: 0e0742b3337048b28a29752552bc6580, type: 3}
+    - {fileID: 21300000, guid: 241dd753000548e3b898db9670ac4864, type: 3}
+    - {fileID: 21300000, guid: 1d47ea6ae4a9407c821490d5d8f6498f, type: 3}
+    - {fileID: 21300000, guid: 5965283fd5994630a28e5678fc9b14bf, type: 3}
+    - {fileID: 21300000, guid: c7d97bd400d947ef9f50f8cf0e09e8ba, type: 3}
+    - {fileID: 21300000, guid: 997c192e5dd840e98a6b39dbafe2d857, type: 3}
+    - {fileID: 21300000, guid: 33123c1f2d1b410d9ee32bfbcbba4a53, type: 3}
+    - {fileID: 21300000, guid: a171419c5e1e45c6984cdda8aea9daa1, type: 3}
+    - {fileID: 21300000, guid: ae2c3cf1af08492fa0bc9bfc35681b5a, type: 3}
+    - {fileID: 21300000, guid: 4a7a99ea4a414f2185d1a89e4d8d480d, type: 3}
+    - {fileID: 21300000, guid: f63d190297cd4686ab19cef6016e8fb6, type: 3}
+    - {fileID: 21300000, guid: 8c094956d762429caea4ddbea8f99723, type: 3}
+    - {fileID: 21300000, guid: 088dcc7d0473469f9fe3dcc08d8caafa, type: 3}
+    - {fileID: 21300000, guid: 5d2074515ce94035a5dce378f5f4e242, type: 3}
+    - {fileID: 21300000, guid: 470b56c526774d8e9dbd39a21d1fd575, type: 3}
+    - {fileID: 21300000, guid: de9742657e7343f8a234a982c11fed66, type: 3}
+    - {fileID: 21300000, guid: 37a209eca6bc46909d6686b8693bde66, type: 3}
+    - {fileID: 21300000, guid: 434c5a68fb3b46939e553c82b2710a33, type: 3}
+    - {fileID: 21300000, guid: 15655343f6be4665b183322d7e3a11a1, type: 3}
+    - {fileID: 21300000, guid: b3225a161ad24228a0d6dd29ec8b61aa, type: 3}
+    - {fileID: 21300000, guid: 2b5631e3bc634368a931c905098f008c, type: 3}
+    - {fileID: 21300000, guid: 1067ed8112264aa9a05705350d3e07f4, type: 3}
+    - {fileID: 21300000, guid: eb08acfa332c41a0bf44122427416f8c, type: 3}
+    - {fileID: 21300000, guid: 1bdb0068ff314f92ba5e4f89c6e4da44, type: 3}
+    - {fileID: 21300000, guid: f204b6c9e61247bfb9ba449f728ee29e, type: 3}
+    - {fileID: 21300000, guid: 6cdab2f4e5ff4a7a99324e6053badb90, type: 3}
+    - {fileID: 21300000, guid: 2382c12a1c1b494f9baaf4b7ba0ac86a, type: 3}
+    - {fileID: 21300000, guid: dddda4b63db24b1ea0388f6626691ff7, type: 3}
+    - {fileID: 21300000, guid: 104d8e8a0ec447428076b3e65c3a72f4, type: 3}
+    - {fileID: 21300000, guid: 7edb4679dbe54112a4e9e8e52550c55b, type: 3}
+    - {fileID: 21300000, guid: 3314ef95b4c64472801f708d6b07ec58, type: 3}
+    - {fileID: 21300000, guid: 92602a9588324e279cb4091c6197305e, type: 3}
+    - {fileID: 21300000, guid: 16e4dc79457c4268ad08293f230a829b, type: 3}
+    - {fileID: 21300000, guid: 0aa368facf514119bfadda52e50a9cee, type: 3}
+    - {fileID: 21300000, guid: 94cfb4ec96c748109966e8e7fa4023b8, type: 3}
+    - {fileID: 21300000, guid: a86ac75cd88a4e0fb7c0a46aad062a8d, type: 3}
+    - {fileID: 21300000, guid: 057d389bfaea418c9be554b8751ea7a8, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Boss3Mat_rework"
+  m_IsVariant: 0

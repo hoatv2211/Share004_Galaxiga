@@ -1,0 +1,265 @@
+
+dau.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_boss3/bung1
+  rotate: false
+  xy: 802, 66
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/bung2
+  rotate: false
+  xy: 883, 66
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/bung3
+  rotate: false
+  xy: 964, 66
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/bung4
+  rotate: false
+  xy: 1045, 66
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/bung5
+  rotate: false
+  xy: 1126, 66
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/bung6
+  rotate: false
+  xy: 1207, 66
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/bung7
+  rotate: false
+  xy: 1288, 66
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/bung8
+  rotate: false
+  xy: 1369, 66
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+anim_boss3/dau1
+  rotate: false
+  xy: 2, 23
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+anim_boss3/dau2
+  rotate: false
+  xy: 102, 23
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+anim_boss3/dau3
+  rotate: false
+  xy: 202, 23
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+anim_boss3/dau4
+  rotate: false
+  xy: 302, 23
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+anim_boss3/dau5
+  rotate: false
+  xy: 402, 23
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+anim_boss3/dau6
+  rotate: false
+  xy: 502, 23
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+anim_boss3/dau7
+  rotate: false
+  xy: 602, 23
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+anim_boss3/dau8
+  rotate: false
+  xy: 702, 23
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+anim_boss3/gai1
+  rotate: false
+  xy: 2018, 113
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+anim_boss3/gai2
+  rotate: false
+  xy: 2, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+anim_boss3/gai3
+  rotate: false
+  xy: 2, 11
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+anim_boss3/gai4
+  rotate: false
+  xy: 1409, 56
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc1
+  rotate: false
+  xy: 1450, 68
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc10
+  rotate: false
+  xy: 940, 16
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc11
+  rotate: false
+  xy: 1007, 16
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc12
+  rotate: false
+  xy: 1074, 16
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc13
+  rotate: false
+  xy: 1141, 16
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc14
+  rotate: false
+  xy: 1208, 16
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc15
+  rotate: false
+  xy: 1275, 16
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc2
+  rotate: false
+  xy: 1521, 68
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc24
+  rotate: false
+  xy: 1342, 16
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc3
+  rotate: false
+  xy: 1592, 68
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc4
+  rotate: false
+  xy: 1663, 68
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc5
+  rotate: false
+  xy: 1734, 68
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc6
+  rotate: false
+  xy: 1805, 68
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc7
+  rotate: false
+  xy: 1876, 68
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc8
+  rotate: false
+  xy: 1947, 68
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+anim_boss3/nguc9
+  rotate: false
+  xy: 873, 16
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+anim_boss3/ngucfix1
+  rotate: false
+  xy: 802, 11
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1

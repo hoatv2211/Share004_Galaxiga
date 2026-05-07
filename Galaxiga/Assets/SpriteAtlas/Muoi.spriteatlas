@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Muoi"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 4c52ab08ea954f6aa4b179ae78735b10, type: 3}
+    - {fileID: 21300000, guid: c9efd81c13664593aaba22e71849a487, type: 3}
+    - {fileID: 21300000, guid: 48916fae1fe24d3c9594798d1f891e29, type: 3}
+    - {fileID: 21300000, guid: 5c71678f278b43d48fba4e2a73cc2704, type: 3}
+    - {fileID: 21300000, guid: c325116fb7ec45b29d3f7dc1e65c421b, type: 3}
+    - {fileID: 21300000, guid: a2da2c8a99f947febb82ffdf91efd322, type: 3}
+    - {fileID: 21300000, guid: a36dbeb56e5f46da881b4ec668174428, type: 3}
+    - {fileID: 21300000, guid: 14503c01c5b54c77842562214ec5d9df, type: 3}
+    - {fileID: 21300000, guid: 566cfcecfb6545438a35f9d6fd402491, type: 3}
+    - {fileID: 21300000, guid: c759743125fc45ddaf4f375f9be05d4e, type: 3}
+    - {fileID: 21300000, guid: a620470274584808aac9e6db138667f9, type: 3}
+    - {fileID: 21300000, guid: 1ff4dbf320d84976ba904928acf8eec6, type: 3}
+    - {fileID: 21300000, guid: dc590ee417cb4708a54f0d5d8b1f6ada, type: 3}
+    - {fileID: 21300000, guid: d5bebf3721c84bc3a07ce8e4b89ca600, type: 3}
+    - {fileID: 21300000, guid: 0bdf334935234af588ee4ff887b2b38a, type: 3}
+    - {fileID: 21300000, guid: 5e15f53004254605b0c604dd11f6c72b, type: 3}
+    - {fileID: 21300000, guid: fae0d3aa687a413b8948c51c72258b79, type: 3}
+    - {fileID: 21300000, guid: 40c8bc45643b4dbbb95d6370fdb4e84f, type: 3}
+    - {fileID: 21300000, guid: 722dd2b3663948dca1f9685717a8b529, type: 3}
+    - {fileID: 21300000, guid: 7b8113f3439f4ca88be731318d4c3671, type: 3}
+    - {fileID: 21300000, guid: ef729bf8843e46208e56f3a3132e5d39, type: 3}
+    - {fileID: 21300000, guid: 384d578d8a714af58f5941943e2346e9, type: 3}
+    - {fileID: 21300000, guid: 82d603fa601a4a858ef5b74dd16a3431, type: 3}
+    - {fileID: 21300000, guid: e48443b1e2c6451cac6f78564328f0d7, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Muoi"
+  m_IsVariant: 0

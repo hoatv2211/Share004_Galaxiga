@@ -1,0 +1,76 @@
+
+Aircraft2_Wings.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 20 (merged)a
+  rotate: true
+  xy: 377, 69
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+Group 20 (merged)b
+  rotate: true
+  xy: 441, 72
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+Group 20 (merged)c
+  rotate: false
+  xy: 180, 2
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Group 20 (merged)d
+  rotate: true
+  xy: 284, 77
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+Group 20 (merged)e
+  rotate: true
+  xy: 188, 52
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+Group 20 (merged)f
+  rotate: false
+  xy: 77, 56
+  size: 109, 70
+  orig: 109, 70
+  offset: 0, 0
+  index: -1
+Group 20 (merged)g
+  rotate: false
+  xy: 2, 19
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+Group 20 (merged)i
+  rotate: true
+  xy: 77, 2
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+Group 20 (merged)k
+  rotate: false
+  xy: 223, 6
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+Shape 87
+  rotate: false
+  xy: 133, 2
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9fd2a4ef106157a19fe7e7ea0d9057, type: 3}
+  m_Name: "Bata FD 01"
+  m_EditorClassIdentifier: 
+  plane: 0
+  namePlane: "Bata FD 01"
+  isOnlyGem: 0

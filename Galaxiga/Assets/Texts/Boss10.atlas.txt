@@ -1,0 +1,272 @@
+
+Boss10.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss10fix/Boss10_From1_Back_Idle_0
+  rotate: false
+  xy: 1250, 6
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From1_Front_Idle_0
+  rotate: false
+  xy: 1034, 41
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From1_Front_Idle_1
+  rotate: false
+  xy: 1133, 41
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From1_Front_Idle_2
+  rotate: false
+  xy: 1232, 41
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From1_Front_Idle_3
+  rotate: false
+  xy: 1331, 41
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From1_Front_Idle_4
+  rotate: false
+  xy: 1430, 41
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From1_Front_Idle_5
+  rotate: false
+  xy: 1529, 41
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From1_Front_Idle_6
+  rotate: false
+  xy: 1628, 41
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From1_Front_Idle_7
+  rotate: false
+  xy: 1727, 41
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Back1_Idle_0
+  rotate: false
+  xy: 1875, 70
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Back2_Idle_0
+  rotate: false
+  xy: 1826, 61
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Eye_0
+  rotate: false
+  xy: 2, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Eye_1
+  rotate: false
+  xy: 1321, 18
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Eye_2
+  rotate: false
+  xy: 2023, 72
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Eye_3
+  rotate: false
+  xy: 25, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Eye_4
+  rotate: false
+  xy: 1344, 18
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Eye_5
+  rotate: false
+  xy: 48, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Eye_6
+  rotate: false
+  xy: 1367, 18
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Eye_7
+  rotate: false
+  xy: 71, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Front_Idle_0
+  rotate: false
+  xy: 2, 25
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Front_Idle_1
+  rotate: false
+  xy: 131, 25
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Front_Idle_2
+  rotate: false
+  xy: 260, 25
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Front_Idle_3
+  rotate: false
+  xy: 389, 25
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Front_Idle_4
+  rotate: false
+  xy: 518, 25
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Front_Idle_5
+  rotate: false
+  xy: 647, 25
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Front_Idle_6
+  rotate: false
+  xy: 776, 25
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Front_Idle_7
+  rotate: false
+  xy: 905, 25
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing1_Idle_0
+  rotate: false
+  xy: 1915, 91
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing1_Idle_1
+  rotate: false
+  xy: 1969, 91
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing1_Idle_2
+  rotate: false
+  xy: 1915, 58
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing1_Idle_3
+  rotate: false
+  xy: 1969, 58
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing1_Idle_4
+  rotate: false
+  xy: 1034, 8
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing1_Idle_5
+  rotate: false
+  xy: 1088, 8
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing1_Idle_6
+  rotate: false
+  xy: 1142, 8
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing1_Idle_7
+  rotate: false
+  xy: 1196, 8
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing2_Idle_0
+  rotate: false
+  xy: 1289, 9
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing3_Idle_0
+  rotate: true
+  xy: 2023, 95
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Boss10fix/Boss10_From2_Wing4_Idle_0
+  rotate: false
+  xy: 1826, 44
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1

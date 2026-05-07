@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Greataxe"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: c592ffca235e41bca517f4c31869c8f2, type: 3}
+    - {fileID: 21300000, guid: 22532f34530940259bd2dbd7346c7687, type: 3}
+    - {fileID: 21300000, guid: 91cb74b276b34a189bb80d6d99a3adbc, type: 3}
+    - {fileID: 21300000, guid: 68b3e117a78542739ea6394a24895071, type: 3}
+    - {fileID: 21300000, guid: d9ed68eddeb748f0b273269b21c70de8, type: 3}
+    - {fileID: 21300000, guid: e0f1996d7e324874883b8695ee529f82, type: 3}
+    - {fileID: 21300000, guid: f24bc7d14d0c4c5f979f25aa6efb3479, type: 3}
+    - {fileID: 21300000, guid: f661b3023b6d4501b89c61c0b6e21224, type: 3}
+    - {fileID: 21300000, guid: 460516bf164d402cb949ea2a63dd6da2, type: 3}
+    - {fileID: 21300000, guid: 22dcdc922c6e4a3db3266f86c739f837, type: 3}
+    - {fileID: 21300000, guid: ca1f759bd5a948c5977695cfecf35a4e, type: 3}
+    - {fileID: 21300000, guid: d3eff46bd66649dfb9823fc1566276af, type: 3}
+    - {fileID: 21300000, guid: 505cc781b0324cf2bc127ccd64f47d6c, type: 3}
+    - {fileID: 21300000, guid: 4aa4780cd9714f21a72efdefd9603b6d, type: 3}
+    - {fileID: 21300000, guid: 4c2100fc12f043edbcffdf04e2581a76, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Greataxe"
+  m_IsVariant: 0

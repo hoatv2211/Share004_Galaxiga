@@ -1,0 +1,426 @@
+
+Aircraft1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aircraft1_E1/aircraft1_e1_idle_0
+  rotate: false
+  xy: 2, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft1_e1_idle_1
+  rotate: false
+  xy: 2, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft1_e1_idle_2
+  rotate: false
+  xy: 145, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft1_e1_idle_3
+  rotate: false
+  xy: 2, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft1_e1_idle_4
+  rotate: false
+  xy: 145, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft_twirling_right_0
+  rotate: false
+  xy: 288, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft_twirling_right_1
+  rotate: false
+  xy: 2, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft_twirling_right_2
+  rotate: false
+  xy: 145, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft_twirling_right_3
+  rotate: false
+  xy: 288, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E1/aircraft_twirling_right_4
+  rotate: false
+  xy: 431, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_e2_idle_0
+  rotate: false
+  xy: 2, 258
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_e2_idle_1
+  rotate: false
+  xy: 145, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_e2_idle_2
+  rotate: false
+  xy: 288, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_e2_idle_3
+  rotate: false
+  xy: 431, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_e2_idle_4
+  rotate: false
+  xy: 574, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_twirling_right_0
+  rotate: false
+  xy: 2, 130
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_twirling_right_1
+  rotate: false
+  xy: 145, 258
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_twirling_right_2
+  rotate: false
+  xy: 288, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_twirling_right_3
+  rotate: false
+  xy: 431, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E2/aircraft1_twirling_right_4
+  rotate: false
+  xy: 574, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_e3_idle_0
+  rotate: false
+  xy: 717, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_e3_idle_1
+  rotate: false
+  xy: 2, 2
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_e3_idle_2
+  rotate: false
+  xy: 145, 130
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_e3_idle_3
+  rotate: false
+  xy: 288, 258
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_e3_idle_4
+  rotate: false
+  xy: 431, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_upgrade2_twirling_right_0
+  rotate: false
+  xy: 574, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_upgrade2_twirling_right_1
+  rotate: false
+  xy: 717, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_upgrade2_twirling_right_2
+  rotate: false
+  xy: 860, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_upgrade2_twirling_right_3
+  rotate: false
+  xy: 145, 2
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E3/aircraft1_upgrade2_twirling_right_4
+  rotate: false
+  xy: 288, 130
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_e4_idle_0
+  rotate: false
+  xy: 431, 258
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_e4_idle_1
+  rotate: false
+  xy: 574, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_e4_idle_2
+  rotate: false
+  xy: 717, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_e4_idle_3
+  rotate: false
+  xy: 860, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_e4_idle_4
+  rotate: false
+  xy: 1003, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_upgrade3_twirling_right_0
+  rotate: false
+  xy: 288, 2
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_upgrade3_twirling_right_1
+  rotate: false
+  xy: 431, 130
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_upgrade3_twirling_right_2
+  rotate: false
+  xy: 574, 258
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_upgrade3_twirling_right_3
+  rotate: false
+  xy: 717, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E4/aircraft1_upgrade3_twirling_right_4
+  rotate: false
+  xy: 860, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_e5_idle_0
+  rotate: false
+  xy: 1003, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_e5_idle_1
+  rotate: false
+  xy: 431, 2
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_e5_idle_2
+  rotate: false
+  xy: 717, 258
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_e5_idle_3
+  rotate: false
+  xy: 1003, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_e5_idle_4
+  rotate: false
+  xy: 1289, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_upgrade4_twirling_right_0
+  rotate: false
+  xy: 717, 130
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_upgrade4_twirling_right_1
+  rotate: false
+  xy: 1003, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_upgrade4_twirling_right_2
+  rotate: false
+  xy: 1289, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_upgrade4_twirling_right_3
+  rotate: false
+  xy: 717, 2
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E5/aircraft1_upgrade4_twirling_right_4
+  rotate: false
+  xy: 1003, 258
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_e6_idle_0
+  rotate: false
+  xy: 1146, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_e6_idle_1
+  rotate: false
+  xy: 574, 130
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_e6_idle_2
+  rotate: false
+  xy: 860, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_e6_idle_3
+  rotate: false
+  xy: 1146, 642
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_e6_idle_4
+  rotate: false
+  xy: 574, 2
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_upgrade5_twirling_right_0
+  rotate: false
+  xy: 860, 258
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_upgrade5_twirling_right_1
+  rotate: false
+  xy: 1146, 514
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_upgrade5_twirling_right_2
+  rotate: false
+  xy: 1432, 770
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_upgrade5_twirling_right_3
+  rotate: false
+  xy: 860, 130
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+Aircraft1_E6/aircraft1_upgrade5_twirling_right_4
+  rotate: false
+  xy: 1146, 386
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1

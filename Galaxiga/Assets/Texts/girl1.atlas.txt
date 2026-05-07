@@ -1,0 +1,307 @@
+
+girl1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Curves 1 copy
+  rotate: false
+  xy: 1737, 762
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+Curves 1 copy 11
+  rotate: true
+  xy: 989, 637
+  size: 150, 116
+  orig: 150, 116
+  offset: 0, 0
+  index: -1
+Curves 1 copy 2
+  rotate: false
+  xy: 831, 490
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1
+Curves 1 copy 3
+  rotate: true
+  xy: 341, 44
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+Curves 1 copy 4
+  rotate: true
+  xy: 1107, 475
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+Curves 1 copy 5
+  rotate: true
+  xy: 2, 2
+  size: 87, 178
+  orig: 87, 178
+  offset: 0, 0
+  index: -1
+Curves 1 copy 6
+  rotate: true
+  xy: 656, 198
+  size: 120, 179
+  orig: 120, 179
+  offset: 0, 0
+  index: -1
+Curves 1 copy 7
+  rotate: false
+  xy: 1107, 699
+  size: 142, 123
+  orig: 142, 123
+  offset: 0, 0
+  index: -1
+Curves 1 copy 8
+  rotate: true
+  xy: 2, 91
+  size: 158, 379
+  orig: 158, 379
+  offset: 0, 0
+  index: -1
+Group 13 copy 2
+  rotate: false
+  xy: 1041, 795
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Layer 125
+  rotate: false
+  xy: 1583, 768
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+Layer 125 copy
+  rotate: true
+  xy: 1996, 924
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+Layer 125 copy 2
+  rotate: false
+  xy: 1311, 708
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+Layer 125 copy 3
+  rotate: true
+  xy: 1529, 767
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+Layer 126
+  rotate: false
+  xy: 1311, 751
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+Layer 239
+  rotate: false
+  xy: 1571, 886
+  size: 211, 122
+  orig: 211, 122
+  offset: 0, 0
+  index: -1
+Layer 243
+  rotate: false
+  xy: 831, 630
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+Layer 245
+  rotate: false
+  xy: 1107, 582
+  size: 150, 115
+  orig: 150, 115
+  offset: 0, 0
+  index: -1
+Layer 262
+  rotate: false
+  xy: 424, 261
+  size: 230, 188
+  orig: 230, 188
+  offset: 0, 0
+  index: -1
+Layer 267
+  rotate: false
+  xy: 1251, 712
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+arm (bg)
+  rotate: false
+  xy: 424, 451
+  size: 215, 258
+  orig: 215, 258
+  offset: 0, 0
+  index: -1
+arm (fg)
+  rotate: false
+  xy: 810, 789
+  size: 229, 219
+  orig: 229, 219
+  offset: 0, 0
+  index: -1
+arm (fg)1
+  rotate: false
+  xy: 1041, 824
+  size: 248, 184
+  orig: 248, 184
+  offset: 0, 0
+  index: -1
+arm (fg)2
+  rotate: true
+  xy: 1291, 857
+  size: 151, 278
+  orig: 151, 278
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 1784, 891
+  size: 210, 117
+  orig: 210, 117
+  offset: 0, 0
+  index: -1
+eyes closed
+  rotate: false
+  xy: 1942, 855
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+eyes closed2
+  rotate: false
+  xy: 1664, 760
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 641, 475
+  size: 188, 234
+  orig: 188, 234
+  offset: 0, 0
+  index: -1
+fck finger
+  rotate: false
+  xy: 1583, 815
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 499, 144
+  size: 123, 115
+  orig: 123, 115
+  offset: 0, 0
+  index: -1
+headset
+  rotate: false
+  xy: 1468, 756
+  size: 59, 99
+  orig: 59, 99
+  offset: 0, 0
+  index: -1
+headset (bg)
+  rotate: false
+  xy: 1405, 755
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: -1
+index finger
+  rotate: false
+  xy: 1664, 816
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+leg (fg)
+  rotate: false
+  xy: 2, 251
+  size: 420, 757
+  orig: 420, 757
+  offset: 0, 0
+  index: -1
+lips
+  rotate: false
+  xy: 1872, 845
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+little finger
+  rotate: false
+  xy: 1737, 811
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 383, 91
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+ring finger
+  rotate: false
+  xy: 1797, 827
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+shoulder pad (bg)
+  rotate: false
+  xy: 989, 541
+  size: 116, 94
+  orig: 116, 94
+  offset: 0, 0
+  index: -1
+shoulder pad (fg)
+  rotate: false
+  xy: 656, 320
+  size: 170, 153
+  orig: 170, 153
+  offset: 0, 0
+  index: -1
+thumb
+  rotate: false
+  xy: 383, 117
+  size: 114, 132
+  orig: 114, 132
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 424, 711
+  size: 384, 297
+  orig: 384, 297
+  offset: 0, 0
+  index: -1
+visor
+  rotate: false
+  xy: 182, 19
+  size: 157, 70
+  orig: 157, 70
+  offset: 0, 0
+  index: -1

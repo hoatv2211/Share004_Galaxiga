@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "TwilightX"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: ae3b8d7fcbf248b7963ba80f43ab44f0, type: 3}
+    - {fileID: 21300000, guid: ea38949c11364fb2b61239f71f340077, type: 3}
+    - {fileID: 21300000, guid: 92eb96cc25614c3cb2e1705be56e4200, type: 3}
+    - {fileID: 21300000, guid: 1cbcbe601da2468ca3388f76ad703260, type: 3}
+    - {fileID: 21300000, guid: a66916dc701a4782964ee9c0ba90a6ae, type: 3}
+    - {fileID: 21300000, guid: bbfd33226e9f4c0197b8e8c417d3286c, type: 3}
+    - {fileID: 21300000, guid: ea5c205bd0d6480ba42267ccd207ad61, type: 3}
+    - {fileID: 21300000, guid: 8a470821849c48cc92b332d5e19c064f, type: 3}
+    - {fileID: 21300000, guid: c88952168f2340489b05140a034000ee, type: 3}
+    - {fileID: 21300000, guid: dcca75b7c9c843a29f3d845caa36821a, type: 3}
+    - {fileID: 21300000, guid: 4d8e25f95a3d486097b9d07d79dce705, type: 3}
+    - {fileID: 21300000, guid: 1932a3d31a5e408ab5ec893ca1510fa6, type: 3}
+    - {fileID: 21300000, guid: 937c6f0883724e2ca100a24241ef846b, type: 3}
+    - {fileID: 21300000, guid: b2f99d038dcf41629e3ff9279b7f7d03, type: 3}
+    - {fileID: 21300000, guid: 9b4279ed0ef34f65b2bacec7c298056f, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "TwilightX"
+  m_IsVariant: 0

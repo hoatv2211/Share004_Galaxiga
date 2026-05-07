@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "UI Game 2"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: abd315dd0ff6432d92bb7aa52f1de2e2, type: 3}
+    - {fileID: 21300000, guid: 3abe408feeac420abd7bd706aed69deb, type: 3}
+    - {fileID: 21300000, guid: 8e2da057fd3348d1825c18c42375ac1b, type: 3}
+    - {fileID: 21300000, guid: 821159761ea94754ad3034c99b458cfc, type: 3}
+    - {fileID: 21300000, guid: 90089df8b05e4fc4bc0ebe487971f148, type: 3}
+    - {fileID: 21300000, guid: 30be6aa87b774f349b4544a7508cd3b3, type: 3}
+    - {fileID: 21300000, guid: 476ca04b5b7e4d46b074d200e26c64b9, type: 3}
+    - {fileID: 21300000, guid: c6c2bde9d9cf4f2f8ccc74505f07567a, type: 3}
+    - {fileID: 21300000, guid: be79f35908874fa485f68bcabb75005c, type: 3}
+    - {fileID: 21300000, guid: f33e0d49225d4406abdd52e7c2f57f6c, type: 3}
+    - {fileID: 21300000, guid: 33ddbfe0690b4ae9a72db8fed5641938, type: 3}
+    - {fileID: 21300000, guid: 31ac7661d79a4d16ac21df40b6ebc3b7, type: 3}
+    - {fileID: 21300000, guid: 9751ce436f7e43a989baf92082a90970, type: 3}
+    - {fileID: 21300000, guid: 5547fc35ee18484c8d1b425a6fcf10dc, type: 3}
+    - {fileID: 21300000, guid: cff46b86265d4f51a008fb32c8a173e5, type: 3}
+    - {fileID: 21300000, guid: 6df7703237d343c1bc3e69ccf524d2d8, type: 3}
+    - {fileID: 21300000, guid: ba6c35b5bbf34ab8b0ec4b948ef6110c, type: 3}
+    - {fileID: 21300000, guid: 8b00801fa0e6451981faae9845ea9ae9, type: 3}
+    - {fileID: 21300000, guid: 8cca5f270c964b73b28e0a6214f17815, type: 3}
+    - {fileID: 21300000, guid: 47dea2cabc604814a184ea556b2d1812, type: 3}
+    - {fileID: 21300000, guid: 5f08e4fe9d4f4812a0462c3a59ffd1f3, type: 3}
+    - {fileID: 21300000, guid: e32aba05c7184f66b9830965f763f8bd, type: 3}
+    - {fileID: 21300000, guid: a85362227c914131b3889102ef514906, type: 3}
+    - {fileID: 21300000, guid: 115cc62a94604e3e9d27fe21939e0c5f, type: 3}
+    - {fileID: 21300000, guid: 5f5f28805ccc48c3a45e653d89a58fd6, type: 3}
+    - {fileID: 21300000, guid: 2c34fe49d50e4f13940fcfd786384676, type: 3}
+    - {fileID: 21300000, guid: 131ceeb7694040f397ef3bdda5412058, type: 3}
+    - {fileID: 21300000, guid: 1059d666cc334dd3a2deefdbede89f25, type: 3}
+    - {fileID: 21300000, guid: 563beeacc6c046ab920fd80424ff636e, type: 3}
+    - {fileID: 21300000, guid: 89ab752e2c7e47d3aad38a2fae0fcfe7, type: 3}
+    - {fileID: 21300000, guid: 8e12c31043a242838c6a1abfc10dcc2c, type: 3}
+    - {fileID: 21300000, guid: 0e007a9a52d54474982b093853b3ccbf, type: 3}
+    - {fileID: 21300000, guid: d3dcbcf507964e17a8744b5d0ccae5e2, type: 3}
+    - {fileID: 21300000, guid: 6e91feaea5824b32adc339b6fe7a90fe, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "UI Game 2"
+  m_IsVariant: 0

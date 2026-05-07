@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "UI Game 4"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: a7f920f434d54157996656f31d9b1e83, type: 3}
+    - {fileID: 21300000, guid: 5c66028da9aa4dc59d6c184242e3d04b, type: 3}
+    - {fileID: 21300000, guid: 7f108dcd49ea410fbce61bd41f0adec0, type: 3}
+    - {fileID: 21300000, guid: ff4c5a1c09a64e10ae8626f200a31a3c, type: 3}
+    - {fileID: 21300000, guid: fbceaaf9247246d49075865a0240733a, type: 3}
+    - {fileID: 21300000, guid: 9756d9947c9d421b93df303f604250a7, type: 3}
+    - {fileID: 21300000, guid: 341c372656744cb18cd145f81b3eabfe, type: 3}
+    - {fileID: 21300000, guid: 2832235bd65749078b105d0f76dc1073, type: 3}
+    - {fileID: 21300000, guid: da5e60dbdba6476481ddf3f3e19207c2, type: 3}
+    - {fileID: 21300000, guid: 2136f29c6f4d47f5981c73d446d71a61, type: 3}
+    - {fileID: 21300000, guid: 511f5316ee634475b1f6e08d315c1695, type: 3}
+    - {fileID: 21300000, guid: b6102bca2761446580c78ea0919cffcc, type: 3}
+    - {fileID: 21300000, guid: 21df1f36c47042b4bf06c0a7b715fe68, type: 3}
+    - {fileID: 21300000, guid: f2fde6c66fb343ab994c4a0fb402e765, type: 3}
+    - {fileID: 21300000, guid: 5c535030352e44a6a18f89105e821875, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "UI Game 4"
+  m_IsVariant: 0

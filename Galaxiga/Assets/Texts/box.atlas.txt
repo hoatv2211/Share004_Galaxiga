@@ -1,0 +1,55 @@
+
+box.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ac
+  rotate: false
+  xy: 1782, 344
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+boxpixel_normal_box
+  rotate: false
+  xy: 1127, 167
+  size: 310, 252
+  orig: 310, 252
+  offset: 0, 0
+  index: -1
+boxpixel_normal_cover
+  rotate: false
+  xy: 796, 2
+  size: 324, 154
+  orig: 324, 154
+  offset: 0, 0
+  index: -1
+boxpixel_normal_open
+  rotate: false
+  xy: 407, 51
+  size: 387, 368
+  orig: 387, 368
+  offset: 0, 0
+  index: -1
+boxpixel_special_box
+  rotate: false
+  xy: 796, 158
+  size: 329, 261
+  orig: 329, 261
+  offset: 0, 0
+  index: -1
+boxpixel_special_cover
+  rotate: false
+  xy: 1439, 224
+  size: 341, 195
+  orig: 341, 195
+  offset: 0, 0
+  index: -1
+boxpixel_special_open
+  rotate: false
+  xy: 2, 35
+  size: 403, 384
+  orig: 403, 384
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "BoSungMay"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: c19f0d7501bb46a4b788fc2b993c8c4d, type: 3}
+    - {fileID: 21300000, guid: 74a21492df4744338dd4bbf4193d0a24, type: 3}
+    - {fileID: 21300000, guid: d5e4be2aabfa4d698a7c2c23944121bf, type: 3}
+    - {fileID: 21300000, guid: 8943fba2b09b4f2ba3d3c5637c96a577, type: 3}
+    - {fileID: 21300000, guid: f9cc745cac3a44d182d94aaf44d5406c, type: 3}
+    - {fileID: 21300000, guid: e9b8dfa049574a878f8c76e95ef77a89, type: 3}
+    - {fileID: 21300000, guid: 7dc00b533a684ffc8aec56a50958d377, type: 3}
+    - {fileID: 21300000, guid: 3ef35bd7f2fe46079eab3e3d29424931, type: 3}
+    - {fileID: 21300000, guid: faa88f247f5042eaa849fa0f47863587, type: 3}
+    - {fileID: 21300000, guid: b33efb0e9c064742b2ceb7c4f9aa715d, type: 3}
+    - {fileID: 21300000, guid: c061cedf45e8430cbb619d242e7d1bd4, type: 3}
+    - {fileID: 21300000, guid: 1a069fd361594fd38e028d4a2ab192a4, type: 3}
+    - {fileID: 21300000, guid: a20b0e8f41074c8982cbfa3b41879afe, type: 3}
+    - {fileID: 21300000, guid: 45c1cec5cb414d00b30935b714e71f4f, type: 3}
+    - {fileID: 21300000, guid: 516bc375cc484cb1921b2b642743a1cd, type: 3}
+    - {fileID: 21300000, guid: 07a91974b94d49d48b2d6f81d24616cc, type: 3}
+    - {fileID: 21300000, guid: 24b0040cda1a403db5f7273b3477b000, type: 3}
+    - {fileID: 21300000, guid: 213674c88e214413ad58887841d59665, type: 3}
+    - {fileID: 21300000, guid: 7648411f08864a39aba2331e4f9b0cde, type: 3}
+    - {fileID: 21300000, guid: fe6f45cd7d9448749c9d56cb475d6d5b, type: 3}
+    - {fileID: 21300000, guid: 2deb1c90deb54759adeb739e66ede48e, type: 3}
+    - {fileID: 21300000, guid: 6252839fa17d4105b0ce3c8d2a8fb727, type: 3}
+    - {fileID: 21300000, guid: fcb7f3ef30494ec789b4c4d722257b97, type: 3}
+    - {fileID: 21300000, guid: 5ac8fa3d8b3549c586fd4df4bd31d894, type: 3}
+    - {fileID: 21300000, guid: c8e4dc88d4b04d1a8a69c0e4b5818bed, type: 3}
+    - {fileID: 21300000, guid: b232cf78f945477abaf469b2f0106159, type: 3}
+    - {fileID: 21300000, guid: 8b8720f5af8343708234abae5a3ccb82, type: 3}
+    - {fileID: 21300000, guid: 561d045403c743228a098fdd6c1bb4d2, type: 3}
+    - {fileID: 21300000, guid: 42bb8380ce3f4144aac87f1b9f8a8d3f, type: 3}
+    - {fileID: 21300000, guid: bf378755e2ff412da1bb2c390e00e859, type: 3}
+    - {fileID: 21300000, guid: 480e9582b557415d86ac46547b1d45fd, type: 3}
+    - {fileID: 21300000, guid: fa727c283a6c40eaba5ee3dc191c99a1, type: 3}
+    - {fileID: 21300000, guid: 44082b2b75404e73a8d87911be81f7fb, type: 3}
+    - {fileID: 21300000, guid: 3eb392afff634eac8dc3167dbc58ca5f, type: 3}
+    - {fileID: 21300000, guid: 29305a2f0e5241c89df1b5a759ad687a, type: 3}
+    - {fileID: 21300000, guid: 5a38d46b58344ad9be4eed31010c9d1a, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "BoSungMay"
+  m_IsVariant: 0

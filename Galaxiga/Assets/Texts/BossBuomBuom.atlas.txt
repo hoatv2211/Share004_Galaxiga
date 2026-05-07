@@ -1,0 +1,566 @@
+
+BossBuomBuom.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body/boss5_anim1
+  rotate: false
+  xy: 2, 129
+  size: 236, 125
+  orig: 236, 125
+  offset: 0, 0
+  index: -1
+Body/boss5_anim2
+  rotate: false
+  xy: 2, 2
+  size: 236, 125
+  orig: 236, 125
+  offset: 0, 0
+  index: -1
+Body/boss5_anim3
+  rotate: false
+  xy: 240, 129
+  size: 236, 125
+  orig: 236, 125
+  offset: 0, 0
+  index: -1
+Body/boss5_anim4
+  rotate: false
+  xy: 240, 2
+  size: 236, 125
+  orig: 236, 125
+  offset: 0, 0
+  index: -1
+Body/boss5_anim5
+  rotate: false
+  xy: 478, 129
+  size: 236, 125
+  orig: 236, 125
+  offset: 0, 0
+  index: -1
+Body/boss5_anim6
+  rotate: false
+  xy: 478, 2
+  size: 236, 125
+  orig: 236, 125
+  offset: 0, 0
+  index: -1
+Body/boss5_anim7
+  rotate: false
+  xy: 716, 129
+  size: 236, 125
+  orig: 236, 125
+  offset: 0, 0
+  index: -1
+Body/boss5_anim8
+  rotate: false
+  xy: 716, 2
+  size: 236, 125
+  orig: 236, 125
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Atk_down_0
+  rotate: false
+  xy: 2025, 209
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Atk_down_1
+  rotate: true
+  xy: 986, 4
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Atk_down_2
+  rotate: true
+  xy: 1983, 138
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Atk_hold_0
+  rotate: true
+  xy: 1215, 34
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Atk_hold_1
+  rotate: true
+  xy: 1262, 34
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Atk_up_0
+  rotate: true
+  xy: 1309, 34
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Atk_up_1
+  rotate: true
+  xy: 1356, 34
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Atk_up_2
+  rotate: true
+  xy: 1403, 34
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Idle_0
+  rotate: true
+  xy: 1450, 34
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Idle_1
+  rotate: true
+  xy: 1497, 34
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Idle_2
+  rotate: true
+  xy: 1544, 34
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Idle_3
+  rotate: true
+  xy: 1983, 118
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Idle_4
+  rotate: true
+  xy: 1215, 14
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Idle_5
+  rotate: true
+  xy: 1262, 14
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Idle_6
+  rotate: true
+  xy: 1309, 14
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Guns/Boss5_minigun_Idle_7
+  rotate: true
+  xy: 1356, 14
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Atk_down_0
+  rotate: true
+  xy: 1635, 80
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Atk_down_1
+  rotate: true
+  xy: 1635, 52
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Atk_down_2
+  rotate: true
+  xy: 1711, 154
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Atk_hold_0
+  rotate: true
+  xy: 1708, 126
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Atk_hold_1
+  rotate: true
+  xy: 1708, 98
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Atk_up_0
+  rotate: true
+  xy: 1699, 70
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Atk_up_1
+  rotate: true
+  xy: 1699, 42
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Atk_up_2
+  rotate: true
+  xy: 1115, 14
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Idle_0
+  rotate: true
+  xy: 1917, 158
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Idle_1
+  rotate: true
+  xy: 1981, 158
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Idle_2
+  rotate: false
+  xy: 1763, 34
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Idle_3
+  rotate: true
+  xy: 1781, 155
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Idle_4
+  rotate: true
+  xy: 1845, 155
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Idle_5
+  rotate: true
+  xy: 1791, 127
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Idle_6
+  rotate: true
+  xy: 1855, 127
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Hand/Boss5_Gun_Idle_7
+  rotate: true
+  xy: 1919, 130
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Head/dau1
+  rotate: false
+  xy: 1144, 162
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+Head/dau2
+  rotate: false
+  xy: 1034, 28
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+Head/dau3
+  rotate: false
+  xy: 1225, 162
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+Head/dau4
+  rotate: false
+  xy: 1306, 162
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+Head/dau5
+  rotate: false
+  xy: 1387, 162
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+Head/dau6
+  rotate: false
+  xy: 1468, 162
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+Head/dau7
+  rotate: false
+  xy: 1549, 162
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+Head/dau8
+  rotate: false
+  xy: 1630, 162
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Atk_down_0
+  rotate: false
+  xy: 1917, 186
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Atk_down_1
+  rotate: false
+  xy: 1971, 186
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Atk_down_2
+  rotate: true
+  xy: 1218, 108
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Atk_hold_0
+  rotate: true
+  xy: 1288, 108
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Atk_hold_1
+  rotate: true
+  xy: 1358, 108
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Atk_up_0
+  rotate: true
+  xy: 1428, 108
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Atk_up_1
+  rotate: true
+  xy: 1498, 108
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Atk_up_2
+  rotate: true
+  xy: 1568, 108
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Idle_0
+  rotate: true
+  xy: 1638, 108
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Idle_1
+  rotate: false
+  xy: 1115, 42
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Idle_2
+  rotate: true
+  xy: 1215, 54
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Idle_3
+  rotate: true
+  xy: 1285, 54
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Idle_4
+  rotate: true
+  xy: 1355, 54
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Idle_5
+  rotate: true
+  xy: 1425, 54
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Idle_6
+  rotate: true
+  xy: 1495, 54
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+Tail/Boss5_Duoi_Idle_7
+  rotate: true
+  xy: 1565, 54
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+TrangThaiKen/bung
+  rotate: false
+  xy: 1179, 26
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+TrangThaiKen/bung2
+  rotate: false
+  xy: 1711, 182
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+TrangThaiKen/bung2a
+  rotate: false
+  xy: 954, 122
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+TrangThaiKen/bung3
+  rotate: true
+  xy: 1144, 112
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+TrangThaiKen/canh1
+  rotate: false
+  xy: 954, 24
+  size: 78, 96
+  orig: 78, 96
+  offset: 0, 0
+  index: -1
+TrangThaiKen/canh2
+  rotate: false
+  xy: 1086, 122
+  size: 56, 132
+  orig: 56, 132
+  offset: 0, 0
+  index: -1
+TrangThaiKen/dau
+  rotate: true
+  xy: 1169, 62
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+TrangThaiKen/dau2
+  rotate: false
+  xy: 2025, 191
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+TrangThaiKen/day
+  rotate: true
+  xy: 1034, 24
+  size: 2, 48
+  orig: 2, 48
+  offset: 0, 0
+  index: -1
+TrangThaiKen/mieng2
+  rotate: false
+  xy: 1781, 183
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+TrangThaiKen/mieng3
+  rotate: false
+  xy: 1849, 183
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+TrangThaiKen/ngoc1
+  rotate: false
+  xy: 2030, 115
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+TrangThaiKen/ngoc2
+  rotate: false
+  xy: 1033, 8
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+TrangThaiKen/ngoc3
+  rotate: true
+  xy: 2030, 136
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+TrangThaiKen/ngoc4
+  rotate: false
+  xy: 954, 2
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+TrangThaiKen/ngoc5
+  rotate: false
+  xy: 1591, 36
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1

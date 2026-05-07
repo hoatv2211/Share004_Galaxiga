@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "OcXoayCam"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 64cc021a18f74c55a35c9ca185801009, type: 3}
+    - {fileID: 21300000, guid: 9108f1f088d14f04818a625826988a86, type: 3}
+    - {fileID: 21300000, guid: 21a9ef183b554064bf5f740925d6aa44, type: 3}
+    - {fileID: 21300000, guid: 3355cf99c1db4b7eae0110956511c5aa, type: 3}
+    - {fileID: 21300000, guid: d82b29509a394c239605be234760ca68, type: 3}
+    - {fileID: 21300000, guid: fa2c85b14c67450d99e75e084e3e1504, type: 3}
+    - {fileID: 21300000, guid: 436fabf7d97b411e93f00b977163e02e, type: 3}
+    - {fileID: 21300000, guid: 0d2e68b962d344fb84c143305d754457, type: 3}
+    - {fileID: 21300000, guid: 218b74ea683246d881320d8c8a511f4e, type: 3}
+    - {fileID: 21300000, guid: f292ebd8dcd74524a512e4c1d474cff7, type: 3}
+    - {fileID: 21300000, guid: 04e497cb38d649f381329678059674dc, type: 3}
+    - {fileID: 21300000, guid: bf84ab488130409ea53426908e0ec00a, type: 3}
+    - {fileID: 21300000, guid: 93c9fd8c84814ec380f3d183027faea4, type: 3}
+    - {fileID: 21300000, guid: d8c18f7c8a094b148b15624e8b9f4b6e, type: 3}
+    - {fileID: 21300000, guid: 446d2519128e49b2a71ced38fb77b169, type: 3}
+    - {fileID: 21300000, guid: e1883b1d88454c7aab408c697687c846, type: 3}
+    - {fileID: 21300000, guid: 2e326c19f1454944b4def2873610cf75, type: 3}
+    - {fileID: 21300000, guid: cf823378f0954d5b83bd2f31a778b406, type: 3}
+    - {fileID: 21300000, guid: 6c21f840d6094a4c8e809067f560c0c3, type: 3}
+    - {fileID: 21300000, guid: 4a37d57afa8e42bda721e2e0b0aef5bb, type: 3}
+    - {fileID: 21300000, guid: 03aae29d712942f6a5a7628077e6d8ee, type: 3}
+    - {fileID: 21300000, guid: df3cfc4c76d0428999c3c43031b1414c, type: 3}
+    - {fileID: 21300000, guid: f39e71c927d54b50ad109947024d76de, type: 3}
+    - {fileID: 21300000, guid: abf585cb0c8d49e89b63f495d009d586, type: 3}
+    - {fileID: 21300000, guid: 4d2e6229862948a68fa21913e66bec52, type: 3}
+    - {fileID: 21300000, guid: b0c5dd85c98049e3b9b18277f28ed591, type: 3}
+    - {fileID: 21300000, guid: fbded308ace44ca8997efdfa3ecc6361, type: 3}
+    - {fileID: 21300000, guid: 14376cac9414418f98a1da1772511247, type: 3}
+    - {fileID: 21300000, guid: f91a7216261c4d7589e09fd7569ba8fb, type: 3}
+    - {fileID: 21300000, guid: aae1442bc4e247eca4dd278a34b6a447, type: 3}
+    - {fileID: 21300000, guid: 42fff5814abf46b89bd69b1a4a5b5b52, type: 3}
+    - {fileID: 21300000, guid: ec37b14543694fe58dd880f2109fcafa, type: 3}
+    - {fileID: 21300000, guid: 0fcb68d55e5342569843afb532d829c0, type: 3}
+    - {fileID: 21300000, guid: 79308dfb0a1a42c4b0789dfe91631a63, type: 3}
+    - {fileID: 21300000, guid: 471ed20e591e4de38a498a5a6d09d242, type: 3}
+    - {fileID: 21300000, guid: b7bbe8cc264846608cd61674bba4a9de, type: 3}
+    - {fileID: 21300000, guid: 32fe7de484e44186bb15cb0b8680cfaf, type: 3}
+    - {fileID: 21300000, guid: fd5947cef0854ec388d7775bb2e930de, type: 3}
+    - {fileID: 21300000, guid: ed9b47414db8444aa5c1929850cc01b1, type: 3}
+    - {fileID: 21300000, guid: e666ad247a4c40d18e49b85083597a68, type: 3}
+    - {fileID: 21300000, guid: ba28e18c2f89458badfa31341df5eff9, type: 3}
+    - {fileID: 21300000, guid: 4ba29c386f1e43218c91629e06e1acda, type: 3}
+    - {fileID: 21300000, guid: ddaf14b8b43947b29771da97d1ad48c1, type: 3}
+    - {fileID: 21300000, guid: 77acddc98c8f4f998366de8179453e25, type: 3}
+    - {fileID: 21300000, guid: a640f1d15a5b4b40a9877b8df5d5f1b1, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "OcXoayCam"
+  m_IsVariant: 0

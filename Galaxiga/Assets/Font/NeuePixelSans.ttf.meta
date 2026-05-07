@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 714c9106a9b54c24a7528cf622a115d5
+timeCreated: 1626260178
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "NeuePixelSans"
+  fontNames:
+  - Neue Pixel Sans
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

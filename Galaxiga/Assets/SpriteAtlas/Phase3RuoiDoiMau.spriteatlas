@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Phase3RuoiDoiMau"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: bceef5aa07b24133949d17a16bb6c6b5, type: 3}
+    - {fileID: 21300000, guid: 1e70a545d321495c87a37e6513ba7747, type: 3}
+    - {fileID: 21300000, guid: 78ec0b0e1a3f4502b99d68654018c4b9, type: 3}
+    - {fileID: 21300000, guid: 7486f6dab9794433a4d23fd03e012a28, type: 3}
+    - {fileID: 21300000, guid: 4c31b0b9c86643a4ae0e50c74e122dcd, type: 3}
+    - {fileID: 21300000, guid: dfbf029f3e9945a5bab860bdc76f62f7, type: 3}
+    - {fileID: 21300000, guid: f6f83aea3a234ff5afd98dc6ea7c6f1f, type: 3}
+    - {fileID: 21300000, guid: ebb13cf2c95d465d9ff6b0a316c848ab, type: 3}
+    - {fileID: 21300000, guid: 4dce73a151fd4f859cb09e5161b9796c, type: 3}
+    - {fileID: 21300000, guid: 7deccc8e2c214cf3bffb1d43b7ba50ad, type: 3}
+    - {fileID: 21300000, guid: b3643ea1d0674105b57eea03afc9ff06, type: 3}
+    - {fileID: 21300000, guid: 0c0fabb3ab234975b4c2e93beb35bba1, type: 3}
+    - {fileID: 21300000, guid: 54b1e96ec5334f6483b89d7e2664fff1, type: 3}
+    - {fileID: 21300000, guid: 5567810ab6484e3387bb781fda5d6ccc, type: 3}
+    - {fileID: 21300000, guid: 4ae9d11a46664c5a83e3ea3fa5bbc209, type: 3}
+    - {fileID: 21300000, guid: bea5efa6eb5a401db633e0b951c6ea9d, type: 3}
+    - {fileID: 21300000, guid: d94a12a855894970b5470cb94a9a3ad9, type: 3}
+    - {fileID: 21300000, guid: 2075e83bdaa44ea09d74ea7fbbeb18c4, type: 3}
+    - {fileID: 21300000, guid: f6b7517eddba4082a74fb110ca8d3480, type: 3}
+    - {fileID: 21300000, guid: e3a7c1c8a5aa4df1a48272d3ee7c0766, type: 3}
+    - {fileID: 21300000, guid: c22f6da98f624330aa58d0aed9e670e8, type: 3}
+    - {fileID: 21300000, guid: 742c6593bd9a498cbf9da60c3fb65d32, type: 3}
+    - {fileID: 21300000, guid: f4f87b2110c744dc86d66449b7e62c6b, type: 3}
+    - {fileID: 21300000, guid: acd9fc704f4446759cb7225323a4016f, type: 3}
+    - {fileID: 21300000, guid: 2a2ca75abfa5401d8afacc7d11a236df, type: 3}
+    - {fileID: 21300000, guid: 6368b141f9d1431697bbf473582ec1d4, type: 3}
+    - {fileID: 21300000, guid: ff8193c96a1b4bd38d3e7f5c39f6a878, type: 3}
+    - {fileID: 21300000, guid: 78bd9216175c4cbabc73067f2fbfcd56, type: 3}
+    - {fileID: 21300000, guid: 021487ee1a544429a74924f6b1076f44, type: 3}
+    - {fileID: 21300000, guid: ebb752263b9f4631b30f39f6d1f0e73d, type: 3}
+    - {fileID: 21300000, guid: 11af94ce3e7440cb87d7095f89db653b, type: 3}
+    - {fileID: 21300000, guid: d8995f56525a49c2a1b73b4cb59bf0cd, type: 3}
+    - {fileID: 21300000, guid: f307608a7fd04457a7e16738ea766b95, type: 3}
+    - {fileID: 21300000, guid: 58749de488e5423985704b77e9991001, type: 3}
+    - {fileID: 21300000, guid: a68047ebe36948a0a59a11c876618e30, type: 3}
+    - {fileID: 21300000, guid: 62e8c77ab1214cbdb59f90f08ef4c0d1, type: 3}
+    - {fileID: 21300000, guid: 320534f55ef6432ab1cd495971b1f1dd, type: 3}
+    - {fileID: 21300000, guid: f3c3b59a051544b49b5df25463c25f7b, type: 3}
+    - {fileID: 21300000, guid: 4e64bba17d2c47b5bb37133773434d6b, type: 3}
+    - {fileID: 21300000, guid: 4154f640e0194e31a4b4e28eeec7be25, type: 3}
+    - {fileID: 21300000, guid: 03c6d9d1be5e49449a7200cca988a998, type: 3}
+    - {fileID: 21300000, guid: 6931cebb4d25469fa7492c5c69558e92, type: 3}
+    - {fileID: 21300000, guid: 1b542e2c9541482892afb964674656dd, type: 3}
+    - {fileID: 21300000, guid: d2f2d7661de94304b7a77757066270ee, type: 3}
+    - {fileID: 21300000, guid: cd2f920f474e43199bd717eba64f39c6, type: 3}
+    - {fileID: 21300000, guid: 6c278e8a12014cfb99b862187d8e2309, type: 3}
+    - {fileID: 21300000, guid: e52e6f9b1e8a4f3d8f94d7818d3f7e20, type: 3}
+    - {fileID: 21300000, guid: 439582a7826245538f4e758b50a1b4ab, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Phase3RuoiDoiMau"
+  m_IsVariant: 0

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "BosBiNgoReword"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 6fce0e78282648f9a8bbeadc3f1df176, type: 3}
+    - {fileID: 21300000, guid: 83dd67894290437085ce7a555ec48823, type: 3}
+    - {fileID: 21300000, guid: 1edd605a996b4f06a22c6e4c10916d85, type: 3}
+    - {fileID: 21300000, guid: 84583698c1714a26abc1f2d68083174e, type: 3}
+    - {fileID: 21300000, guid: 0aaee05ce18a448ab13e6c9bf9a698f8, type: 3}
+    - {fileID: 21300000, guid: 9d18af70954f47438307ad04b16978e4, type: 3}
+    - {fileID: 21300000, guid: 60a79edc7b2440528b73528f708f86df, type: 3}
+    - {fileID: 21300000, guid: a0e839aa5ce94e56b196ea12a7f90ff8, type: 3}
+    - {fileID: 21300000, guid: d0cc51ec7e89413e8adf1c33247f3ff2, type: 3}
+    - {fileID: 21300000, guid: a20dae61a540462392521d9e3b310065, type: 3}
+    - {fileID: 21300000, guid: 0d0aba43d3eb49d58b40f893b9808508, type: 3}
+    - {fileID: 21300000, guid: 0062269de73b483e8e3c3a2e5281f477, type: 3}
+    - {fileID: 21300000, guid: 9812ea2aea634c3fade2cfec78b50c88, type: 3}
+    - {fileID: 21300000, guid: 056943072e95419bb0dccb31364e23b4, type: 3}
+    - {fileID: 21300000, guid: a6db2c015a3c40f2a4852911138d9e51, type: 3}
+    - {fileID: 21300000, guid: 3b175fa6b0d749f1b2d856e9c129cca1, type: 3}
+    - {fileID: 21300000, guid: a8475c7547f5475d8a1b54c99f77d6f4, type: 3}
+    - {fileID: 21300000, guid: 7b4b9f69730e47289953a8843d4656bf, type: 3}
+    - {fileID: 21300000, guid: 4873a64e5a624b99912a89280ca7e8a9, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "BosBiNgoReword"
+  m_IsVariant: 0

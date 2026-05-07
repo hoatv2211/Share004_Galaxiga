@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Auto Gatling Gun"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 88f5947b496248f9a022f2a02b3a7ab3, type: 3}
+    - {fileID: 21300000, guid: 2d56f7d826904e2a86ee636ba12c2169, type: 3}
+    - {fileID: 21300000, guid: 3a1dbb754b6c4da7ad81c46622b90d7e, type: 3}
+    - {fileID: 21300000, guid: 6588038d034e42969e0dcf43c53b51fa, type: 3}
+    - {fileID: 21300000, guid: ce5c2a83614843f8a6a22c10410559c9, type: 3}
+    - {fileID: 21300000, guid: 67e221a230974e33859d6513042f253a, type: 3}
+    - {fileID: 21300000, guid: b925b869f0ea4d8bb65631c86012fc5a, type: 3}
+    - {fileID: 21300000, guid: dcc6ff1156034523b0b514fcdb78baf9, type: 3}
+    - {fileID: 21300000, guid: 130c2703367142e48fd34692ddb46463, type: 3}
+    - {fileID: 21300000, guid: a15addc7033a46809fd6c8aac3eeb6b6, type: 3}
+    - {fileID: 21300000, guid: 0d35b475a7764ccbac0c3e8e97a2df90, type: 3}
+    - {fileID: 21300000, guid: f7587721cf884245894f0f6f9045b45e, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "Auto Gatling Gun"
+  m_IsVariant: 0

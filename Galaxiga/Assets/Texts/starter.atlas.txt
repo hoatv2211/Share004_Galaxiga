@@ -1,0 +1,48 @@
+
+starter.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+starter/light
+  rotate: false
+  xy: 1002, 2
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+starter/starterpack_2
+  rotate: false
+  xy: 2, 7
+  size: 198, 180
+  orig: 198, 180
+  offset: 0, 0
+  index: -1
+starter/starterpack_3
+  rotate: false
+  xy: 202, 7
+  size: 198, 180
+  orig: 198, 180
+  offset: 0, 0
+  index: -1
+starter/starterpack_4
+  rotate: false
+  xy: 402, 7
+  size: 198, 180
+  orig: 198, 180
+  offset: 0, 0
+  index: -1
+starter/starterpack_5
+  rotate: false
+  xy: 602, 7
+  size: 198, 180
+  orig: 198, 180
+  offset: 0, 0
+  index: -1
+starter/starterpack_6
+  rotate: false
+  xy: 802, 7
+  size: 198, 180
+  orig: 198, 180
+  offset: 0, 0
+  index: -1

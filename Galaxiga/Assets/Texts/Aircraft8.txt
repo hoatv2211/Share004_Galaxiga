@@ -1,0 +1,268 @@
+{
+"skeleton": { "hash": "L+mYmjJPsgGdCns7ny8fVxllgj4", "spine": "3.6.53", "width": 189, "height": 192, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 0.51 }
+],
+"slots": [
+	{ "name": "Aircraft1_E1/aircraft1_e1_idle_0", "bone": "bone", "attachment": "Aircraft1_E1/aircraft1_e1_idle_0" }
+],
+"skins": {
+	"default": {},
+	"E3": {
+		"Aircraft1_E1/aircraft1_e1_idle_0": {
+			"Aircraft1_E1/aircraft1_e1_idle_0": { "name": "Aircraft8_E3/aircraft8__Idle_0", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft1_e1_idle_1": { "name": "Aircraft8_E3/aircraft8__Idle_1", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft1_e1_idle_2": { "name": "Aircraft8_E3/aircraft8__Idle_2", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft1_e1_idle_3": { "name": "Aircraft8_E3/aircraft8__Idle_3", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft1_e1_idle_4": { "name": "Aircraft8_E3/aircraft8__Idle_4", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft_twirling_right_0": { "name": "Aircraft8_E3/aircraft8__Twirling_right_0", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft_twirling_right_1": { "name": "Aircraft8_E3/aircraft8__Twirling_right_1", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft_twirling_right_2": { "name": "Aircraft8_E3/aircraft8__Twirling_right_2", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft_twirling_right_3": { "name": "Aircraft8_E3/aircraft8__Twirling_right_3", "width": 147, "height": 126 },
+			"Aircraft1_E1/aircraft_twirling_right_4": { "name": "Aircraft8_E3/aircraft8__Twirling_right_4", "width": 147, "height": 126 }
+		}
+	},
+	"E4": {
+		"Aircraft1_E1/aircraft1_e1_idle_0": {
+			"Aircraft1_E1/aircraft_twirling_right_0": { "name": "Aircraft8_E4/aircraft8_Twirling_right_0", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_1": { "name": "Aircraft8_E4/aircraft8_Twirling_right_1", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_2": { "name": "Aircraft8_E4/aircraft8_Twirling_right_2", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_3": { "name": "Aircraft8_E4/aircraft8_Twirling_right_3", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_4": { "name": "Aircraft8_E4/aircraft8_Twirling_right_4", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_0": { "name": "Aircraft8_E4/aircraft8_e4_idle_0", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_1": { "name": "Aircraft8_E4/aircraft8_e4_idle_1", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_2": { "name": "Aircraft8_E4/aircraft8_e4_idle_2", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_3": { "name": "Aircraft8_E4/aircraft8_e4_idle_3", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_4": { "name": "Aircraft8_E4/aircraft8_e4_idle_4", "width": 189, "height": 192 }
+		}
+	},
+	"E5": {
+		"Aircraft1_E1/aircraft1_e1_idle_0": {
+			"Aircraft1_E1/aircraft_twirling_right_0": { "name": "Aircraft8_E5/aircraft8_E4_Twirling_right_0", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_1": { "name": "Aircraft8_E5/aircraft8_E4_Twirling_right_1", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_2": { "name": "Aircraft8_E5/aircraft8_E4_Twirling_right_2", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_3": { "name": "Aircraft8_E5/aircraft8_E4_Twirling_right_3", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_4": { "name": "Aircraft8_E5/aircraft8_E4_Twirling_right_4", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_0": { "name": "Aircraft8_E5/aircraft8_e5_idle_0", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_1": { "name": "Aircraft8_E5/aircraft8_e5_idle_1", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_2": { "name": "Aircraft8_E5/aircraft8_e5_idle_2", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_3": { "name": "Aircraft8_E5/aircraft8_e5_idle_3", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_4": { "name": "Aircraft8_E5/aircraft8_e5_idle_4", "width": 189, "height": 192 }
+		}
+	},
+	"E6": {
+		"Aircraft1_E1/aircraft1_e1_idle_0": {
+			"Aircraft1_E1/aircraft_twirling_right_0": { "name": "Aircraft8_E6/aircraft8_E5_Twirling_right_0", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_1": { "name": "Aircraft8_E6/aircraft8_E5_Twirling_right_1", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_2": { "name": "Aircraft8_E6/aircraft8_E5_Twirling_right_2", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_3": { "name": "Aircraft8_E6/aircraft8_E5_Twirling_right_3", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft_twirling_right_4": { "name": "Aircraft8_E6/aircraft8_E5_Twirling_right_4", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_0": { "name": "Aircraft8_E6/aircraft8_e6_idle_0", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_1": { "name": "Aircraft8_E6/aircraft8_e6_idle_1", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_2": { "name": "Aircraft8_E6/aircraft8_e6_idle_2", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_3": { "name": "Aircraft8_E6/aircraft8_e6_idle_3", "width": 189, "height": 192 },
+			"Aircraft1_E1/aircraft1_e1_idle_4": { "name": "Aircraft8_E6/aircraft8_e6_idle_4", "width": 189, "height": 192 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"Aircraft1_E1/aircraft1_e1_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft1_E1/aircraft1_e1_idle_0" },
+					{ "time": 0.1, "name": "Aircraft1_E1/aircraft1_e1_idle_1" },
+					{ "time": 0.2, "name": "Aircraft1_E1/aircraft1_e1_idle_2" },
+					{ "time": 0.3, "name": "Aircraft1_E1/aircraft1_e1_idle_3" },
+					{ "time": 0.4, "name": "Aircraft1_E1/aircraft1_e1_idle_4" },
+					{ "time": 0.5, "name": "Aircraft1_E1/aircraft1_e1_idle_0" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right0": {
+		"slots": {
+			"Aircraft1_E1/aircraft1_e1_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft1_E1/aircraft_twirling_right_0" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right1": {
+		"slots": {
+			"Aircraft1_E1/aircraft1_e1_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft1_E1/aircraft_twirling_right_1" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right2": {
+		"slots": {
+			"Aircraft1_E1/aircraft1_e1_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft1_E1/aircraft_twirling_right_2" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right3": {
+		"slots": {
+			"Aircraft1_E1/aircraft1_e1_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft1_E1/aircraft_twirling_right_3" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"right4": {
+		"slots": {
+			"Aircraft1_E1/aircraft1_e1_idle_0": {
+				"attachment": [
+					{ "time": 0, "name": "Aircraft1_E1/aircraft_twirling_right_4" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}
