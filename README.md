@@ -6,9 +6,13 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)](https://play.google.com/)
 [![Version](https://img.shields.io/badge/Version-1.2-blue)](./Galaxiga/ProjectSettings/ProjectSettings.asset)
 [![License](https://img.shields.io/badge/License-See%20LICENSE-lightgrey)](./LICENSE)
+[![Play Demo](https://img.shields.io/badge/▶%20Play%20Demo-WebGL-orange)](https://hoatv2211.github.io/Share004_Galaxiga/)
 
 <p align="center">
-  <img src="Galaxiga/Assets/Images/World3_Space.png" width="320" alt="Space background"/>
+  <a href="https://hoatv2211.github.io/Share004_Galaxiga/">
+    <img src="Galaxiga/Assets/Images/World3_Space.png" width="320" alt="Play WebGL Demo"/>
+  </a>
+  <br/><em>Click to play the WebGL demo</em>
 </p>
 
 ---
