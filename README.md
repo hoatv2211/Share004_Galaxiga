@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://hoatv2211.github.io/Share004_Galaxiga/">
-    <img src="Galaxiga/Assets/Images/World3_Space.png" width="320" alt="Play WebGL Demo"/>
+    <img src="Galaxiga/Recordings/Image Sequence_004_0000.jpg" width="320" alt="Play WebGL Demo"/>
   </a>
   <br/><em>Click to play the WebGL demo</em>
 </p>
